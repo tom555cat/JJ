@@ -1,0 +1,1045 @@
+{
+  "title": "英语模块（一）｜四篇阅读逐题解析与全文译读",
+  "intro": [
+    "材料来源：用户提供的《2025年国家金融监督管理总局考试—计算机岗试题（考生回忆版）》PDF，第101—120题。本文保留回忆版的文章与选项信息，中文译文按上下文释义。",
+    "“原卷答案”指PDF标出的答案，并非经核实的官方答案；“推荐答案”是依据当前题面与原文作出的判断。第119题原卷给B，本文推荐D，并保留措辞瑕疵提示；第106题B也有一定文本依据，但D更直接、稳妥。",
+    "这套材料以社会经济、工作监控及人工智能议论为主。阅读时先识别论点、转折和论证，再检查选项的对象、范围、程度、时间和因果。文中人工智能能力及法律设想属于原文章写作时期的陈述，不作为2026年的技术或法律事实。",
+    "原文保留若干回忆版拼写、语法或标点瑕疵，在各篇说明中提示。题目中的world（第103题）按word理解。"
+  ],
+  "stats": {
+    "total": 20,
+    "original_key_correct": 10,
+    "original_key_rate": "50%",
+    "recommended_key_correct": 11,
+    "recommended_key_rate": "55%",
+    "note": "上述差异仅来自第119题的文本复核，不等同于官方成绩更改。"
+  },
+  "passages": [
+    {
+      "id": 1,
+      "title": "价格体系：价格不只是标价",
+      "range": "第101—105题",
+      "source_note": "回忆版有Price determine（应为Prices determine）、randomly individuals（应补selected或改为random individuals）、discounts that supply（按语义应为apply）等瑕疵。下列英文保留题面，译文按可确定的上下文理解；第103题world应为word。",
+      "paragraphs": [
+        {
+          "id": 1,
+          "en": "Price determine how resources are to be used. They are also the means by which products and services that are in limited supply are rationed among buyers. The price system of the United States is a very complex network composed of the prices of all the products bought and sold in the economy as well as those of a myriad of services, including labor, professional transportation, and public-utility services. The interrelationships of all these prices make up the “system” of prices. The prices of any particular product or service are linked to a broad, complicated system of prices in which everything seems to depend more or less upon everything else.",
+          "zh": "价格决定资源如何使用，也是把供应有限的产品和服务分配给购买者的手段。美国的价格体系是一个十分复杂的网络，既包含经济中买卖的全部产品的价格，也包含大量服务的价格，例如劳动、专业运输和公用事业服务。所有这些价格之间的相互联系构成了价格“体系”。任何一种具体产品或服务的价格，都与一个广泛而复杂的价格体系相联系，在这一体系中，一切似乎都在不同程度上依赖着其他一切。",
+          "role": "总述：价格具有资源配置和分配功能；价格体系是由产品与服务价格相互联系而成的复杂网络。"
+        },
+        {
+          "id": 2,
+          "en": "If one were to ask a group of randomly individuals to define “price”, many would reply that price is an amount of money paid by the buyer to the seller of a product or service or, in other words, that price is the money value of a product or service as agreed upon in a market transaction. This definition is, of course, valid as far as it goes.",
+          "zh": "如果让一组随机选取的人给“价格”下定义，许多人会回答：价格是买方向产品或服务的卖方支付的一笔钱；换言之，价格是市场交易中双方商定的产品或服务的货币价值。这个定义在其适用范围内当然是成立的。",
+          "role": "提出常见定义并作有限认可。as far as it goes暗示“只说到了部分内容”，为下段补充条件作铺垫。"
+        },
+        {
+          "id": 3,
+          "en": "For a complete understanding of a price in any particular transaction, much more than the amount of money involved must be known. Both the buyer and the seller should be familiar with not only the money amount, but with the amount and quality of the product or service to be exchanged, the time and place at which the exchange will take place and payment will be made, the form of money to be used, and the credit terms and discounts that supply to the transaction, guarantees on the product or service, delivery terms, return privileges, and other factors. In other words, both buyer and seller should be fully aware of all the factors that comprise the total “package” being exchanged for the asked-for amount of money in order that they may evaluate a given price.",
+          "zh": "要完整理解一笔具体交易中的价格，需要知道的远远不止所涉及的金额。买卖双方不仅要熟悉金额，还应了解将要交换的产品或服务的数量和质量、交易与付款的时间地点、使用何种货币形式，以及适用于该交易的信用条件和折扣、产品或服务的保证、交付条件、退货权利等因素。换句话说，买卖双方应充分了解为所要求的金额而交换的整个“组合”包含哪些因素，才能评价某个给定的价格。",
+          "role": "核心展开：价格应理解为带有交易条件的整体组合，而不是孤立的金额。末句回扣评价价格，为续写题提供线索。"
+        }
+      ],
+      "structure": "三段推进：价格体系复杂且彼此关联 → 日常定义只强调货币金额 → 完整定义必须纳入数量、质量、信用、交付、退货等交易条件。第101题看总述；第102、103题看第三段；第104题看尾句；第105题统摄全篇。",
+      "questions": [
+        {
+          "id": 101,
+          "stem_en": "According to the passage, the price system is related primarily to ( ).",
+          "stem_zh": "根据文章，价格体系主要与什么有关？",
+          "original_key": "D",
+          "user_answer": "B",
+          "recommended_key": "D",
+          "type": "细节概括题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "labor and education",
+              "zh": "劳动和教育",
+              "verdict": "不选",
+              "analysis": "labor确在第一段列举中，但education未被列出；并且劳动只是服务的一例，不能代表价格体系的完整对象。"
+            },
+            {
+              "letter": "B",
+              "en": "transportation and insurance",
+              "zh": "运输和保险",
+              "verdict": "不选",
+              "analysis": "transportation只是服务的例子，insurance未在文章中出现。选项把一个出现过的局部词与一个未提及词拼在一起，制造熟悉感。"
+            },
+            {
+              "letter": "C",
+              "en": "utilities and repairs",
+              "zh": "公用事业与维修",
+              "verdict": "不选",
+              "analysis": "public-utility services被提及，repairs未被提及；同样以服务子项替代产品和服务这个上位概念。"
+            },
+            {
+              "letter": "D",
+              "en": "products and services",
+              "zh": "产品和服务",
+              "verdict": "正确",
+              "analysis": "第一段明确说明价格体系由所有产品的价格及大量服务的价格组成。该项概括了被列举事物的共同类别，范围与原文相符。"
+            }
+          ],
+          "evidence": "第1段：“the prices of all the products ... as well as those of a myriad of services”。",
+          "reasoning": "primarily要求找主要对象，不是找任意一个原文词。products与services是总括，labor、transportation等只是解释services的例子。",
+          "method": "遇到including、such as先圈出其前的类别名词，再判断选项是在说上位类别还是举例中的一小部分。",
+          "user_review": "你选B，可能被transportation的原词复现吸引。复盘时应补问：insurance是否有依据？这一组能否覆盖所有产品和服务？"
+        },
+        {
+          "id": 102,
+          "stem_en": "According to the passage, which of the following is NOT a factor in the complete understanding of price? ( )",
+          "stem_zh": "根据文章，下列哪项不属于完整理解价格时考虑的因素？",
+          "original_key": "A",
+          "user_answer": "A",
+          "recommended_key": "A",
+          "type": "否定细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "Instructions that come with a product.",
+              "zh": "随产品附带的使用说明。",
+              "verdict": "正确",
+              "analysis": "第三段的交易条件清单没有提及使用说明。这里只能据“文中未列入”作答，不能推导为现实交易中的使用说明永远没有价值。"
+            },
+            {
+              "letter": "B",
+              "en": "The quantity of a product.",
+              "zh": "产品数量。",
+              "verdict": "不选",
+              "analysis": "与the amount ... of the product同义，原文明列，因此不符合NOT。"
+            },
+            {
+              "letter": "C",
+              "en": "The quality of a product.",
+              "zh": "产品质量。",
+              "verdict": "不选",
+              "analysis": "quality直接出现，是作者列出的因素。"
+            },
+            {
+              "letter": "D",
+              "en": "Warranties that cover a product.",
+              "zh": "涵盖该产品的保修或担保。",
+              "verdict": "不选",
+              "analysis": "warranties对应原文guarantees，两者在本语境都指对产品的保证，是同义替换。"
+            }
+          ],
+          "evidence": "第3段列出“the amount and quality”“guarantees”“delivery terms”“return privileges”等，没有instructions。",
+          "reasoning": "题目限定according to the passage且带NOT，要逐项在列举清单中核对。B、C、D均可定位，A缺乏对应。",
+          "method": "先把NOT做醒目标记；用B=amount、C=quality、D=guarantees建立对应，最后选无法匹配的一项。",
+          "user_review": "你选A，判断正确。继续保持按原文清单核查的习惯，尤其记住warranty与guarantee在本篇的对应关系。"
+        },
+        {
+          "id": 103,
+          "stem_en": "In the last sentence of the passage, the world “they” refers to ( ).",
+          "stem_zh": "文章最后一句中的“they”指代什么？（题面world应为word）",
+          "original_key": "C",
+          "user_answer": "C",
+          "recommended_key": "C",
+          "type": "代词指代题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "return privileges",
+              "zh": "退货权利",
+              "verdict": "不选",
+              "analysis": "虽然是复数，但权利不能承担“评价某个价格”的动作，语义不成立。"
+            },
+            {
+              "letter": "B",
+              "en": "all the factors",
+              "zh": "全部因素",
+              "verdict": "不选",
+              "analysis": "factors紧邻they，容易形成就近误选；因素是被了解的对象，不是执行evaluate的人。"
+            },
+            {
+              "letter": "C",
+              "en": "buyer and seller",
+              "zh": "买方和卖方",
+              "verdict": "正确",
+              "analysis": "句子的主语是both buyer and seller，目的从句in order that they may evaluate表示“以便他们可以评价”，执行主体仍是双方。"
+            },
+            {
+              "letter": "D",
+              "en": "money",
+              "zh": "货币或金钱",
+              "verdict": "不选",
+              "analysis": "money在此为不可数名词，通常不由they指代；也不能自主评价价格。"
+            }
+          ],
+          "evidence": "第3段末句：“both buyer and seller should be fully aware ... in order that they may evaluate a given price”。",
+          "reasoning": "先抽取主干“买卖双方应了解全部因素”，再读目的“以便他们评价价格”。人称与动作语义共同指向买卖双方。",
+          "method": "代词题遵循“数的一致＋语义可执行＋代回顺畅”，不要只选距离最近的名词。",
+          "user_review": "你选C，正确。可用“谁有能力evaluate？”快速排除三个非人的名词项。"
+        },
+        {
+          "id": 104,
+          "stem_en": "The paragraph following the passage most likely discusses ( ).",
+          "stem_zh": "紧接本文的下一段最可能讨论什么？",
+          "original_key": "D",
+          "user_answer": "D",
+          "recommended_key": "D",
+          "type": "下文预测题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "unusual ways to advertise products",
+              "zh": "给产品做广告的不寻常方式",
+              "verdict": "不选",
+              "analysis": "广告不是末段讨论的核心，也没有承接“评价价格组合”的线索。"
+            },
+            {
+              "letter": "B",
+              "en": "types of payment plans for service",
+              "zh": "服务付款方案的种类",
+              "verdict": "不选",
+              "analysis": "付款条件属于价格组合中的某个因素，但文章尾句强调全部因素如何用于评价价格；该项把后文方向缩到单一服务付款分类，承接力度弱于D。"
+            },
+            {
+              "letter": "C",
+              "en": "theories about how products affect different levels of society",
+              "zh": "产品如何影响社会不同阶层的理论",
+              "verdict": "不选",
+              "analysis": "社会阶层及相关理论未形成任何铺垫，话题跳跃。"
+            },
+            {
+              "letter": "D",
+              "en": "how certain elements of price “package” influence its market value",
+              "zh": "价格“组合”中的某些要素如何影响其市场价值",
+              "verdict": "正确",
+              "analysis": "末句提出应了解整体交易组合以评价价格，下一步自然是说明这些要素怎样影响价值，沿用同一话题并向前展开。"
+            }
+          ],
+          "evidence": "第3段末尾：“all the factors that comprise the total ‘package’ ... evaluate a given price”。",
+          "reasoning": "预测题不能随意想象后文，必须从尾段未展开的概念出发。D同时承接package、factors和evaluate。",
+          "method": "尾句核心名词＋尚未解释的问题＝续写方向；看与尾句的逻辑接口是否最紧密。",
+          "user_review": "你选D，正确。不要把预测题当成只要“可能出现”就能选，最优项应最自然承接当前论证。"
+        },
+        {
+          "id": 105,
+          "stem_en": "What is the best title for the passage? ( )",
+          "stem_zh": "本文最合适的标题是什么？",
+          "original_key": "B",
+          "user_answer": "B",
+          "recommended_key": "B",
+          "type": "标题／主旨题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "The Inherent Weakness for the Price System",
+              "zh": "价格体系的内在弱点",
+              "verdict": "不选",
+              "analysis": "作者说明价格体系的复杂性及价格理解需要哪些条件，没有论证体系存在何种内在缺陷。复杂不等于薄弱。"
+            },
+            {
+              "letter": "B",
+              "en": "The Complexities of the Price System",
+              "zh": "价格体系的复杂性",
+              "verdict": "正确",
+              "analysis": "既覆盖第一段的复杂价格网络，也覆盖第三段价格包含多种交易条件的复杂性，能统摄全文。"
+            },
+            {
+              "letter": "C",
+              "en": "Credit Terms in Transactions",
+              "zh": "交易中的信用条件",
+              "verdict": "不选",
+              "analysis": "credit terms只在第三段清单中出现，是局部细节，不能承担全文标题。"
+            },
+            {
+              "letter": "D",
+              "en": "Resource Allocation and the Public Sector",
+              "zh": "资源配置与公共部门",
+              "verdict": "不选",
+              "analysis": "资源配置仅是开头引入，public sector不是文章主题；公用事业服务也不等同于公共部门这一宏观话题。"
+            }
+          ],
+          "evidence": "第1段“a very complex network”“a broad, complicated system”；第3段解释远不止金额的众多条件。",
+          "reasoning": "全文不是批评价格体系，也不是专讲某项交易条款，而是在两个层面解释价格的复杂性。",
+          "method": "标题应同时满足对象正确、范围覆盖、态度相符。拿候选标题回套每一段，覆盖明显不足或带入新态度的项优先排除。",
+          "user_review": "你选B，正确。将complexity（复杂性）与weakness（弱点）分开，可避免把中性说明误读为负面批判。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "无现金经济：收益、风险与三项对策",
+      "range": "第106—110题",
+      "source_note": "原文包含stranglehold the（通常应为stranglehold on the）等回忆版瑕疵。第5段maintain obligation的搭配不够自然，译文按“政府应维持保护客户信息的义务要求”理解，不擅自改成与题面不同的制度主张。Capital One事件是文章中的历史例子；原文this week不指本解析写作当周。",
+      "paragraphs": [
+        {
+          "id": 1,
+          "en": "For the past 3,000 years, when people thought of money they thought of cash. From buying food to settling bar tabs, day-to-day dealings involved creased paper or clinking bits of metal. Over the past decade, however, digital payments have taken off—tapping your plastic on a terminal or swiping a smartphone has become normal. Now this revolution is about to turn cash into an endangered species in some rich economies. That will make the economy more efficient—but it also poses new problems that could hold the transition hostage.",
+          "zh": "过去三千年间，人们想到钱，通常想到的就是现金。从购买食物到结清酒吧账单，日常交易离不开折皱的纸币或叮当作响的金属硬币。然而，过去十年里，数字支付迅速普及，在终端上轻触银行卡或刷一下智能手机已成为常态。如今，这场变革即将使现金在某些富裕经济体中成为“濒危物种”。它将提高经济效率，却也带来可能阻碍转型的新问题。",
+          "role": "引入趋势并提出两面性：数字支付提高效率，但转型会遇到问题。about to表示即将，some限制经济体范围。"
+        },
+        {
+          "id": 2,
+          "en": "In the main the prospect of a cashless economy is excellent news. Cash is inefficient. In rich countries, minting, sorting, storing and distributing it is estimated to cost about 0.5% of GDP. But that does not begin to capture the gains. When payments dematerialize, people and shops are less vulnerable to theft. Governments can keep closer tabs on fraud or tax evasion. Digitalization vastly expands the playground of small businesses and sole traders by enabling them to sell beyond their borders. It also creates a credit history, helping consumers borrow.",
+          "zh": "总体而言，无现金经济的前景是个好消息。现金的效率较低。在富裕国家，铸造、清分、存储和分发现金的成本，估计约占国内生产总值的0.5%。但这些成本节约还远不能涵盖无现金化的全部收益。支付不再依赖有形现金时，个人和商店遭受盗窃的风险会降低。政府能够更密切地追踪欺诈或逃税。数字化还使小企业和个体商户能够跨越国界销售，大幅拓展经营空间。它也能形成信用记录，帮助消费者借款。",
+          "role": "集中列举收益：成本、安全、监管、跨境经营、信用记录。为第106题提供效率与反欺诈线索。"
+        },
+        {
+          "id": 3,
+          "en": "Yet set against these benefits are a bundle of worries. Electronic payment systems may be vulnerable to technical failures, power blackouts and cyber-attacks—this week Capital One, an American bank, became the latest firm to be hacked. In a cashless economy, the poor, the elderly and country folk may be left behind. And eradicating cash, an anonymous payment method, for a digital system could let governments snoop on people’s shopping habits and private entities exploit their personal data.",
+          "zh": "不过，与这些好处相伴的是一系列担忧。电子支付系统可能容易受到技术故障、停电和网络攻击的影响——文章所述当周，美国第一资本银行成为又一家遭黑客攻击的企业。在无现金经济中，穷人、老年人和农村居民可能被落在后面。另外，用数字系统取代具有匿名性的现金支付方式，可能让政府窥探人们的购物习惯，也可能让私营机构利用其个人数据。",
+          "role": "转折列出风险：系统脆弱、群体排斥、隐私受损；银行遇袭是网络攻击风险的实例。"
+        },
+        {
+          "id": 4,
+          "en": "These problems have three remedies. First, governments need to ensure that central monopoly over coins and notes is not replaced by private monopolies over digital money. Rather than letting a few credit-card firms have a stranglehold the electronic pipes for digital payments, as America may yet allow, governments must ensure the payments plumbing is open to a range of digital firms which can build services on top of it. They should urge banks to offer cheap, instant, bank-to-bank digital transfers between deposit accounts, as in Sweden and the Netherlands. Competition should keep prices low so that the poor can afford most services, and it should also mean that if one firm stumbles others can step in, making the system resilient.",
+          "zh": "这些问题有三项解决办法。首先，政府需要确保：中央层面对硬币和纸币的垄断不会被私营机构对数字货币的垄断所取代。政府不应让少数信用卡公司扼住数字支付电子通道的咽喉——美国仍有可能放任这种情况出现；而应确保支付基础设施向多家数字企业开放，使它们能够在此基础上建设服务。政府应敦促银行像瑞典和荷兰那样，提供低价、即时、银行之间的存款账户数字转账。竞争应使价格保持较低水平，让穷人负担得起大部分服务；竞争也应使一家企业出问题时，其他企业可以补位，从而提高系统韧性。",
+          "role": "对策一：开放竞争，防止私营垄断，推动便宜即时的银行间转账，使系统具备韧性。"
+        },
+        {
+          "id": 5,
+          "en": "Second, governments should maintain obligation to keep customer information private, so that the plumbing remains anonymous. Digital firms that use this plumbing to offer services should be free to monetize transaction data, through, for example, advertising, so long as their business model is made explicit to users. Some customers will favor free services that track their purchases; others will want to pay to be left alone.",
+          "zh": "其次，政府应维持保护客户信息隐私的义务要求，使支付基础设施保持匿名性。利用这一基础设施提供服务的数字企业，只要向用户明确说明其商业模式，就应获准通过广告等方式把交易数据转化为收入。有些客户会偏好追踪其购买行为的免费服务，另一些客户则愿意付费以免受到打扰。",
+          "role": "对策二：基础设施保护隐私；服务层在明确告知商业模式的条件下利用数据，给用户选择。注意so long as的条件约束。"
+        },
+        {
+          "id": 6,
+          "en": "Last, the phase-out of cash should be gradual. For a period of ten years, banks should be obliged to accept and distribute cash in populated areas. This will buy governments time to help the poor open bank accounts, educate the elderly and beef up internet access in rural areas. The rush towards digital money is the result of spontaneous demand and innovation. To pocket all the rewards, governments need to prepare for the day when crumpled bank notes change hands for the last time.",
+          "zh": "最后，现金退出应循序渐进。在十年左右的一段时期内，应要求银行在人口聚居地区接收和分发现金。这将为政府争取时间，以帮助穷人开立银行账户、对老年人开展相关教育，并加强农村地区的互联网接入。人们加速转向数字货币，是自发需求和创新的结果。为了充分获得这些好处，政府需要为皱巴巴的纸币最后一次易手的那一天做好准备。",
+          "role": "对策三：渐进退出，给弱势群体和基础设施建设留下过渡期；结尾回到如何充分收获数字化收益。"
+        }
+      ],
+      "structure": "六段形成“趋势与总评 → 收益 → 风险 → 三项对策”的结构。作者总体支持数字支付，同时主张通过竞争、隐私保护和渐进过渡解决问题。标题或主旨必须同时容纳利、弊、对策。",
+      "questions": [
+        {
+          "id": 106,
+          "stem_en": "What can we learn from the first two paragraphs? ( )",
+          "stem_zh": "从前两段可以得知什么？",
+          "original_key": "D",
+          "user_answer": "D",
+          "recommended_key": "D",
+          "type": "细节概括／最佳选项题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "Cash has already become an endangered species in rich economies.",
+              "zh": "现金在富裕经济体中已经成为濒危物种。",
+              "verdict": "不选",
+              "analysis": "原文是is about to（即将），不是has already（已经）；还有in some rich economies的范围限定。该项同时提前时间、放大范围。"
+            },
+            {
+              "letter": "B",
+              "en": "Governments can tackle the problem of fraud by digitalization.",
+              "zh": "政府可以通过数字化应对欺诈问题。",
+              "verdict": "有部分依据，但不作为最佳项",
+              "analysis": "第二段确实说政府能够keep closer tabs on fraud，即更密切监控欺诈。tackle可以仅表示“着手应对”，未必等于“彻底解决”，因此本项不能武断地判成与原文完全无关或必然错误。不过它比原句稍概括了作用，直接性与确定性弱于D。"
+            },
+            {
+              "letter": "C",
+              "en": "Digital payments are rarely seen in recent years.",
+              "zh": "近年来很少见到数字支付。",
+              "verdict": "不选",
+              "analysis": "与taken off和has become normal相反。作者说数字支付已迅速发展且使用成为常态。"
+            },
+            {
+              "letter": "D",
+              "en": "Electronic payments will bring more efficiency to the economy.",
+              "zh": "电子支付将提高经济效率。",
+              "verdict": "最佳答案",
+              "analysis": "第一段明确写That will make the economy more efficient，几乎是直接同义改写，且第二段进一步列出成本与便利收益。"
+            }
+          ],
+          "evidence": "第1段：“That will make the economy more efficient”；第2段：“Governments can keep closer tabs on fraud or tax evasion”。",
+          "reasoning": "本题回忆版并非毫无歧义。D有明确直接句证，B也获得部分支持。按四选一选最佳的原则推荐D，同时把B的边界记录下来。",
+          "method": "两个选项都有依据时，比较是否直接复述、是否增加动作强度、是否受到明确限定。不能为了排除B，擅自把tackle翻成“彻底根除”。",
+          "user_review": "你选D，稳妥。复盘重点是认识有些回忆版题面存在选项竞争，不必编造词义把另一项判得绝对错误。",
+          "caution": "第106题存在一定选项歧义；D最稳，B不是典型的无中生有项。"
+        },
+        {
+          "id": 107,
+          "stem_en": "Capital One is mentioned in Paragraph 3 to illustrate ( ).",
+          "stem_zh": "第三段提到第一资本银行，是为了说明什么？",
+          "original_key": "A",
+          "user_answer": "A",
+          "recommended_key": "A",
+          "type": "例证作用题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "digital payment systems are susceptible to network attacks",
+              "zh": "数字支付系统容易遭受网络攻击",
+              "verdict": "正确",
+              "analysis": "例子前一句直接提出电子支付系统可能受网络攻击，后面用银行被黑客攻击作说明。susceptible to对应vulnerable to。"
+            },
+            {
+              "letter": "B",
+              "en": "American banks will become easier to hack",
+              "zh": "美国银行将越来越容易遭到黑客攻击",
+              "verdict": "不选",
+              "analysis": "原文没有作出美国银行未来更容易被攻击的趋势判断；把一个个案变成整个群体的将来趋势。"
+            },
+            {
+              "letter": "C",
+              "en": "a digital system could let private giants steal people's Data",
+              "zh": "数字系统可能让私人巨头窃取人们的数据",
+              "verdict": "不选",
+              "analysis": "隐私风险在本段后面另行讨论；Capital One例子紧贴cyber-attacks，不能移接到另一论点。题面Data大写不影响语义。"
+            },
+            {
+              "letter": "D",
+              "en": "country people will be affected in a cashless world",
+              "zh": "农村居民将在无现金世界中受到影响",
+              "verdict": "不选",
+              "analysis": "农村居民被落下是同段另一个问题，与银行遭黑客攻击例子的证明对象不同。"
+            }
+          ],
+          "evidence": "第3段：“vulnerable to ... cyber-attacks—this week Capital One ... became the latest firm to be hacked”。",
+          "reasoning": "破折号后的案例解释破折号前的概括，先确定概括再匹配选项。不是只要与本段话题有关就算例证目的。",
+          "method": "例证题优先读例子前后一句；答案通常是被证明的上位观点，而不是例子中的专名细节。",
+          "user_review": "你选A，正确。记住vulnerable和susceptible在本篇都表达“易受……影响”。"
+        },
+        {
+          "id": 108,
+          "stem_en": "According to Paragraph 4, governments ought to ( ).",
+          "stem_zh": "根据第四段，政府应该做什么？",
+          "original_key": "C",
+          "user_answer": "B",
+          "recommended_key": "C",
+          "type": "政策建议细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "let credit-card firms control the electronic pipes",
+              "zh": "让信用卡公司控制电子支付通道",
+              "verdict": "不选",
+              "analysis": "原文Rather than引出应避免的做法，恰是不要让少数信用卡公司控制通道。选项把否定方向颠倒。"
+            },
+            {
+              "letter": "B",
+              "en": "ensure that central banks' monopoly over digital money",
+              "zh": "确保中央银行对数字货币的垄断（题面语法不完整）",
+              "verdict": "不选",
+              "analysis": "原文要求防止现金领域的中央垄断转为数字领域的私人垄断，并未提出确保央行垄断数字货币；coins and notes也被改成digital money。不得把自己的制度常识代入文章。"
+            },
+            {
+              "letter": "C",
+              "en": "urge banks to offer cheap, instant, bank-to-bank digital transfers",
+              "zh": "敦促银行提供低价、即时的银行间数字转账",
+              "verdict": "正确",
+              "analysis": "与原文They should urge banks to offer cheap, instant, bank-to-bank digital transfers直接对应。They承接governments。"
+            },
+            {
+              "letter": "D",
+              "en": "make sure the payments plumbing is open to all digital firms",
+              "zh": "确保支付基础设施对所有数字企业开放",
+              "verdict": "不选",
+              "analysis": "原文是a range of digital firms，即多家或多种数字企业；all表示所有，没有保留开放的范围边界。大方向相似，但量词扩大。"
+            }
+          ],
+          "evidence": "第4段：“open to a range of digital firms”“They should urge banks to offer cheap, instant, bank-to-bank digital transfers”。",
+          "reasoning": "本题最重要的是核对对象和范围：B将货币对象与垄断主体混淆，D把a range of换成all。C保留了主体、动作和服务特征。",
+          "method": "政策题按“谁→应当／不应当→做什么→面向哪些对象”逐格核对；rather than后面的行为通常是排除方向。",
+          "user_review": "你选B，可能看到central monopoly就直接联想央行数字货币垄断。应把完整比较结构读完：作者反对私人垄断，重点在开放竞争，而不是提出B的主张。"
+        },
+        {
+          "id": 109,
+          "stem_en": "Banks need to accept and distribute cash in populated areas because ( ).",
+          "stem_zh": "银行需要在人口聚居地区接收和分发现金，原因是什么？",
+          "original_key": "B",
+          "user_answer": "B",
+          "recommended_key": "B",
+          "type": "原因细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "cash should be quickly phased out",
+              "zh": "现金应迅速退出",
+              "verdict": "不选",
+              "analysis": "原文明说phase-out should be gradual，与quickly相反。保留现金服务是为平稳过渡。"
+            },
+            {
+              "letter": "B",
+              "en": "it will give governments time to help the Poor",
+              "zh": "这将给政府时间来帮助穷人",
+              "verdict": "正确",
+              "analysis": "This will buy governments time to help the poor ...直接说明目的。poor在题面大写无实质影响，选项概括了三类过渡措施中的核心一项。"
+            },
+            {
+              "letter": "C",
+              "en": "it is the result of spontaneous demand",
+              "zh": "这是自发需求的结果",
+              "verdict": "不选",
+              "analysis": "自发需求解释的是转向数字货币的热潮，不是银行继续提供现金服务的原因。指向对象发生转移。"
+            },
+            {
+              "letter": "D",
+              "en": "it will promote digital innovation",
+              "zh": "这将促进数字创新",
+              "verdict": "不选",
+              "analysis": "文中未把继续收发现金的目的表述为促进数字创新；innovation是数字化热潮的原因之一。"
+            }
+          ],
+          "evidence": "第6段：“This will buy governments time to help the poor open bank accounts, educate the elderly and beef up internet access in rural areas”。",
+          "reasoning": "This指向前句要求银行暂时保留现金服务的安排；buy time是“争取时间”，其后列出的动作就是目的。",
+          "method": "原因题注意this、it究竟代指哪件事；同段的“数字化成因”和“过渡措施目的”不能混接。",
+          "user_review": "你选B，正确。把buy time作为整体词组记忆，不要逐词理解成购买时间。"
+        },
+        {
+          "id": 110,
+          "stem_en": "Which of the following can best summarize the main idea of the text? ( )",
+          "stem_zh": "下列哪项最能概括全文主旨？",
+          "original_key": "B",
+          "user_answer": "C",
+          "recommended_key": "B",
+          "type": "全文主旨题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "How to phase out cash and to build up a cashless world",
+              "zh": "如何逐步淘汰现金并建立无现金世界",
+              "verdict": "不选",
+              "analysis": "能覆盖一部分对策，但没有体现前半篇专门讨论的收益与风险；全文不是单线的“建设教程”。"
+            },
+            {
+              "letter": "B",
+              "en": "The pros and cons of digital payment and how to tackle its problems.",
+              "zh": "数字支付的利弊及如何应对其问题。",
+              "verdict": "正确",
+              "analysis": "同时覆盖第二段收益、第三段风险和后三段解决方案，与总分结构完整对应。"
+            },
+            {
+              "letter": "C",
+              "en": "The indispensable role of governments and banks in digital payment.",
+              "zh": "政府与银行在数字支付中不可或缺的作用。",
+              "verdict": "不选",
+              "analysis": "政府和银行是后半篇对策的执行主体，但主体出现频繁不代表它就是全文中心。该项遗漏数字支付收益、风险以及私人企业的相关讨论。"
+            },
+            {
+              "letter": "D",
+              "en": "The possibility of the private monopolies over digital money.",
+              "zh": "私人垄断数字货币的可能性。",
+              "verdict": "不选",
+              "analysis": "仅覆盖第一项对策所针对的一项风险，范围明显过窄。"
+            }
+          ],
+          "evidence": "第1段提出“more efficient—but ... new problems”；第4段“These problems have three remedies”转入解决方案。",
+          "reasoning": "按段落功能而不是名词出现频率判断主旨。全文三大板块是benefits、worries、remedies，B一一覆盖。",
+          "method": "主旨题先给每段写两个字：趋势、收益、风险、对策、对策、对策；把这些功能压缩成一句话再看选项。",
+          "user_review": "你选C，可能注意到政府和银行在后三段反复出现。复盘时应问：第二段为什么写这么多收益，第三段为什么写这么多担忧？C无法解释全文布局。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "工作场所监控：赋能还是压迫，取决于实施方式",
+      "range": "第111—115题",
+      "source_note": "回忆版dechumanizing应为dehumanizing；部分句首小写和标点缺失不影响主线。第2段even if you do not dominate conversations字面为“即使你没有主导谈话”，上下文可能存在转录瑕疵，译文保留字面并提示，不据此扩展技术能力。文中last year、46%等均是原文语境信息，未作为当前调查结论核验。",
+      "paragraphs": [
+        {
+          "id": 1,
+          "en": "Many oppose workplace surveillance, because of the inherent dechumanizing effect it has and the relentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750 million in annual revenue used “non-traditional” monitoring techniques on staff last year.",
+          "zh": "许多人反对工作场所监控，因为它具有使人失去人性化对待的内在影响，并带来持续不断的压力。但随着企业试图从员工身上获取更多生产力来提高效率，这种监控正在世界各地增加。在文章所述的上一年，年收入超过7.5亿美元的公司中，有一半以上对员工使用了“非传统”的监控技术。",
+          "role": "开篇提出争议与趋势：许多人反对，但企业为提高效率扩大使用。反对者理由与企业目的需分清。"
+        },
+        {
+          "id": 2,
+          "en": "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. a growing number of analytics companies offer this service. They gather “data exhaust” left by employees’ email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking. your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.",
+          "zh": "监控员工表现，让企业能够评估员工如何工作以及如何互动，这可能对企业和员工本人都有益。越来越多的数据分析公司提供这种服务。它们收集员工电子邮件和即时通信应用留下的“数据尾气”，并使用配有射频识别装置和麦克风的姓名牌。这些设备可以检查你花多少时间交谈、音量与语调，原文还说即使你并未主导谈话也可以进行检查。虽然这听起来可能侵犯私人空间，但支持者认为，它也能保护员工免遭欺凌和性骚扰。",
+          "role": "解释监控方式与支持者观点，转折While后给出“保护员工”的辩护。"
+        },
+        {
+          "id": 3,
+          "en": "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+          "zh": "有些数据分析能够产生意想不到的结果。例如，人们发现，坐在十二人午餐桌旁的人，往往比经常坐四人桌的人互动更多、分享更多想法，而且工作表现更好；如果没有这种数据分析，这个事实很可能不会被发现。",
+          "role": "用午餐桌案例证明“分析可能带来意外发现”，案例细节服务于首句论点。"
+        },
+        {
+          "id": 4,
+          "en": "Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular “chipping parties”, where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices. As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. and if surveillance tools take away autonomy, that's when they prove most unpopular. a lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+          "zh": "过去几年间，斯德哥尔摩一家名为Epicenter的共享办公空间走得更远，举办颇受欢迎的“植芯片聚会”，人们可以把微型芯片植入手中。他们可以用这些植入物开启电子控制门，或监测打字速度与心率之间的相关性。植入芯片看起来可能很极端，但从身份证件和生物识别技术走到这种设备，其实只是相对较小的一步。只要方案出于自愿，以便利为目的的用途大概会越来越多，从而使相当一部分员工选择植入芯片。但如果植入式芯片被用于压缩空闲时间或休息时间，就可能造成不利影响。如果监控工具剥夺自主权，它们就会变得最不受欢迎。很大程度上，效果取决于此类监控举措如何向员工说明，而有效说明可能防止员工发起反抗。",
+          "role": "展示更深入的监控形式；通过as long as和but说明边界：自愿便利有益，压缩休息、剥夺自主则有害；引向沟通。"
+        },
+        {
+          "id": 5,
+          "en": "If bosses don't communicate effectively, employees assume the worst. But if they're open about the information they're collecting and what they're doing with it, research suggests 46% of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain skeptical and fear an erosion of their civil liberties.",
+          "zh": "如果老板不能有效沟通，员工就会作最坏的推想。但研究表明，如果老板公开说明收集什么信息、将怎样使用这些信息，46%的员工总体上可以接受。尽管许多这类监控方案使用匿名化数据，参与也是自愿的，许多员工仍然持怀疑态度，并担心其公民自由会受到侵蚀。",
+          "role": "进一步解释透明沟通的作用，并保留员工对自由受损的担忧。46%不等于多数或所有员工。"
+        },
+        {
+          "id": 6,
+          "en": "So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive.",
+          "zh": "因此，工作场所监控可能为员工赋能，也可能帮助企业提高效率和利润。但如果实施方式不当，它也可能成为不受欢迎的压迫工具，最终适得其反。",
+          "role": "总结条件性立场：并非全盘支持或反对，关键在实施方式。"
+        }
+      ],
+      "structure": "争议与扩张 → 监控方式及支持理由 → 数据分析的意外收益 → 自愿与自主权边界 → 沟通及自由担忧 → 条件性结论。作者既承认收益，也强调不当实施会适得其反。",
+      "questions": [
+        {
+          "id": 111,
+          "stem_en": "Why are many people opposed to monitoring employee performance? ( )",
+          "stem_zh": "为什么许多人反对监控员工表现？",
+          "original_key": "A",
+          "user_answer": "B",
+          "recommended_key": "A",
+          "type": "原因细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "It puts workers under constant pressure.",
+              "zh": "它使员工持续承受压力。",
+              "verdict": "正确",
+              "analysis": "constant pressure对应第一段relentless pressure，直接说明反对原因。relentless表示持续不断、毫不松懈的。"
+            },
+            {
+              "letter": "B",
+              "en": "It is universally deemed anti-human by nature.",
+              "zh": "它被普遍一致地认为在本质上反人性。",
+              "verdict": "不选",
+              "analysis": "原文是Many oppose，不能推出universally deemed；inherent dehumanizing effect也不是给所有人下“公认反人性”的结论。该项利用dehumanizing的近似词制造熟悉感，再加入普遍性。"
+            },
+            {
+              "letter": "C",
+              "en": "It does both mental and physical harm to employees monitored.",
+              "zh": "它对被监控员工同时造成精神和身体伤害。",
+              "verdict": "不选",
+              "analysis": "压力和非人性化影响有文本线索，但“同时造成身体伤害”没有明确依据。both ... and把未被证明的另一半捆绑进来。"
+            },
+            {
+              "letter": "D",
+              "en": "It enables firms to squeeze maximal productivity from employees.",
+              "zh": "它使企业能够从员工身上榨取最大生产力。",
+              "verdict": "不选",
+              "analysis": "第一段确实说企业希望通过榨取更多生产力提高效率，但这是企业采用监控的目的；题目问反对者的直接理由。maximal也比原文more更绝对。"
+            }
+          ],
+          "evidence": "第1段首句：“Many oppose ... because of ... the relentless pressure it brings”。",
+          "reasoning": "A是直接同义改写。B在“许多人”上升级为“普遍一致”，D混淆企业动机与员工反对原因。",
+          "method": "原因题先锁because；与原文相似的形容词不如量词和逻辑关系可靠。尤其检查many、some与universally、all是否被偷换。",
+          "user_review": "你选B，可能只对上了anti-human与dehumanizing。正确复核还要检查universally；原文从未说所有人都如此评价。"
+        },
+        {
+          "id": 112,
+          "stem_en": "What is the supporters' argument for workplace surveillance? ( )",
+          "stem_zh": "支持者为工作场所监控提出什么理由？",
+          "original_key": "D",
+          "user_answer": "B",
+          "recommended_key": "D",
+          "type": "观点细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "It enables employees to refrain from dominating conversations.",
+              "zh": "它使员工能够避免主导谈话。",
+              "verdict": "不选",
+              "analysis": "原文描述设备能检查谈话时间、音量语调，不是说它会使员工主动避免主导谈话；检测能力被换成行为改善效果。"
+            },
+            {
+              "letter": "B",
+              "en": "It enhances employees' identification with firms they work in.",
+              "zh": "它增强员工对所在企业的认同感。",
+              "verdict": "不选",
+              "analysis": "identification with在此指认同感，原文没有这个主张。原文radio-frequency identification指射频识别技术，不能因为共享identification就把两种词义混为一谈。"
+            },
+            {
+              "letter": "C",
+              "en": "It can alert employees to intrusion into their privacy.",
+              "zh": "它能提醒员工注意对其隐私的侵犯。",
+              "verdict": "不选",
+              "analysis": "intrusive是作者承认的疑虑，不是支持者提出的“提醒隐私入侵”功能。"
+            },
+            {
+              "letter": "D",
+              "en": "It can protect employees against aggressive behavior.",
+              "zh": "它能保护员工免受攻击性或侵害行为。",
+              "verdict": "正确",
+              "analysis": "支持者exponents认为监控可以保护员工免遭bullying和sexual harassment，二者可概括为aggressive behavior。"
+            }
+          ],
+          "evidence": "第2段末句：“exponents argue that it can also protect employees against bullying and sexual harassment”。",
+          "reasoning": "题干supporters对应exponents，先找观点持有者，再读argue后的内容。D用上位概念概括两个具体侵害行为。",
+          "method": "观点题建立“谁说了什么”清单；不要把作者让步、技术介绍或自己的合理推测当成支持者理由。",
+          "user_review": "你选B，没有直接句证。若受到identification原词影响，要辨认其在设备描述中是“识别”，在选项中是“认同”，属于一词多义陷阱。"
+        },
+        {
+          "id": 113,
+          "stem_en": "What does the author want to show by the example of different numbers of people interacting at lunch tables? ( )",
+          "stem_zh": "作者通过不同人数午餐桌互动的例子，想说明什么？",
+          "original_key": "B",
+          "user_answer": "B",
+          "recommended_key": "B",
+          "type": "例证作用题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "Data analysis is key to the successful implementation of workplace surveillance.",
+              "zh": "数据分析是成功实施工作场所监控的关键。",
+              "verdict": "不选",
+              "analysis": "例子说明数据分析会产生意外发现，没有论证它是成功实施监控的关键或必要条件。is key增加了重要性判断。"
+            },
+            {
+              "letter": "B",
+              "en": "Analyzing data gathered from workers can yield something Unexpected.",
+              "zh": "分析从员工处收集的数据可以带来意想不到的发现。",
+              "verdict": "正确",
+              "analysis": "对应段首Some of this data analysis can produce unexpected results，且yield与produce同义。"
+            },
+            {
+              "letter": "C",
+              "en": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+              "zh": "更多同事坐在一张午餐桌旁，往往有助于互动和分享想法。",
+              "verdict": "不选",
+              "analysis": "这接近例子内部观察到的现象，但题干问作者举例想证明的论点；不能以例子内容替代例证作用。还把12人对4人的比较泛化成“人数越多”的倾向。"
+            },
+            {
+              "letter": "D",
+              "en": "It is hard to decide on how many people to sit at a lunch table without data analysis.",
+              "zh": "没有数据分析就难以决定一张午餐桌应坐多少人。",
+              "verdict": "不选",
+              "analysis": "原文说某项发现可能无法被察觉，不是说无法安排午餐座位，改变了问题。"
+            }
+          ],
+          "evidence": "第3段首句：“Some of this data analysis can produce unexpected results”，紧接For example。",
+          "reasoning": "For example把后句标记为证据，前一句是被证明的论点。B概括论点，C复述事例。",
+          "method": "见“by the example ... show”优先读For example前一句，确定答案应在论点层面。",
+          "user_review": "你选B，正确。这一题可作为例证题的标准模板：先找例子服务的观点，再避开照搬案例细节的干扰项。"
+        },
+        {
+          "id": 114,
+          "stem_en": "What does much of the positive effect of monitoring initiatives depend on? ( )",
+          "stem_zh": "监控举措的许多正面效果取决于什么？",
+          "original_key": "D",
+          "user_answer": "B",
+          "recommended_key": "D",
+          "type": "条件与细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "How frequently employees are to be monitored.",
+              "zh": "监控员工的频率。",
+              "verdict": "不选",
+              "analysis": "相关段落没有把监控频率作为决定效果的条件。"
+            },
+            {
+              "letter": "B",
+              "en": "What specific personal information is being excluded.",
+              "zh": "哪些具体个人信息被排除在收集范围之外。",
+              "verdict": "不选",
+              "analysis": "文中强调公开说明收集什么以及怎样使用，并非强调排除哪些信息。“收集的信息”被改成“排除的信息”。"
+            },
+            {
+              "letter": "C",
+              "en": "What steps are taken to minimize their detrimental impact.",
+              "zh": "采取哪些步骤来尽量减少不利影响。",
+              "verdict": "不选",
+              "analysis": "这是听起来合理的概括，但原文对应句明确落在如何沟通，C未保留这一核心因素，缺少直接定位。"
+            },
+            {
+              "letter": "D",
+              "en": "How well bosses make known their purpose of monitoring.",
+              "zh": "老板把监控目的解释清楚的程度。",
+              "verdict": "正确",
+              "analysis": "第4段说a lot depends on how ... are communicated，第5段进一步要求公开所收集的信息及其用途，D概括透明、有效沟通。"
+            }
+          ],
+          "evidence": "第4段末：“a lot depends on how such monitoring initiatives are communicated”；第5段：“open about the information ... and what they're doing with it”。",
+          "reasoning": "题干depend on是定位提示，原文有同一结构。答案围绕有效沟通，尤其是目的及用途透明。",
+          "method": "定位后要读相邻段落如何解释关键词；communicate不只是“发通知”，还包括让员工理解收集内容及目的。",
+          "user_review": "你选B，可能把信息隐私主题泛化为“排除信息”。原文说open about收集和用途，不是excluded；动词方向核对是关键。"
+        },
+        {
+          "id": 115,
+          "stem_en": "What concern do monitoring initiatives cause among many staffers? ( )",
+          "stem_zh": "监控举措引起许多员工的什么担忧？",
+          "original_key": "C",
+          "user_answer": "D",
+          "recommended_key": "C",
+          "type": "特定主体观点题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "They may empower employers excessively.",
+              "zh": "它们可能赋予雇主过多权力。",
+              "verdict": "不选",
+              "analysis": "与监控的潜在风险相关，但员工明确担忧的原句是公民自由受侵蚀，A是进一步推测而非该句直接内容。"
+            },
+            {
+              "letter": "B",
+              "en": "They may erode the workplace environment.",
+              "zh": "它们可能侵蚀工作环境。",
+              "verdict": "不选",
+              "analysis": "原文erosion的宾语是civil liberties，选项把受影响对象换成工作环境。"
+            },
+            {
+              "letter": "C",
+              "en": "They may infringe upon staffers' entitled freedom.",
+              "zh": "它们可能侵犯员工理应享有的自由。",
+              "verdict": "正确",
+              "analysis": "fear an erosion of their civil liberties可改写为担心其自由权利受到侵犯。infringe upon与erosion在此构成概念对应。"
+            },
+            {
+              "letter": "D",
+              "en": "They may become counterproductive in the long run.",
+              "zh": "从长远看，它们可能适得其反。",
+              "verdict": "不选",
+              "analysis": "counterproductive出现在作者末段的总结中，且是实施不当的条件性结果；题目问many staffers的担忧，选项偷换观点持有者并加入in the long run。"
+            }
+          ],
+          "evidence": "第5段末：“many staffers remain skeptical and fear an erosion of their civil liberties”。",
+          "reasoning": "题干many staffers与原文同词复现，锁定其fear后的宾语。末段作者的总评不能代替员工的具体担忧。",
+          "method": "做观点细节题同时标记“主体＋态度动词＋对象”。仅有同主题或同一段关键词，不足以证明归属正确。",
+          "user_review": "你选D，可能被末段醒目的counterproductive吸引。应先问“是谁担心”：员工担心自由，作者评价不当监控可能适得其反。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "人工智能的社会约束与人类智能的边界",
+      "range": "第116—120题",
+      "source_note": "本篇是特定时期的评论文章，出现GPT-3、this year和欧盟立法设想等历史语境。解析只还原其论证，不把“机器不能自发行动、少样本学习”等文章判断认定为2026年AI能力事实。回忆版view it engineering terms应补in等；GPT-3在选项与文章中的Open AI写法予以保留。",
+      "paragraphs": [
+        {
+          "id": 1,
+          "en": "“Progress in AI is something that will take a while to happen, but that doesn't make it science fiction,” said Stuart Russell, the University of California computing professor, and co-author of the top AI textbook. The science of AI is a human enterprise that requires social limitations. The risks, however are not being properly weighed. There are two emerging approaches to AI. The first is to view it engineering terms, where algorithms（算法）are trained on specific tasks. The second presents deep philosophical questions about the nature of human knowledge.",
+          "zh": "加利福尼亚大学计算机教授、权威人工智能教材的合著者斯图尔特·罗素说：“人工智能的进步需要一些时间才能发生，但这并不意味着它是科幻。”人工智能科学是人类的一项事业，需要受到社会约束。然而，其风险没有得到适当权衡。人工智能领域正在出现两种思路：第一种从工程角度看待人工智能，训练算法执行具体任务；第二种则提出关于人类知识本质的深刻哲学问题。",
+          "role": "引入罗素并建立核心主张：AI需要社会约束；区分工程方法与知识哲学问题。"
+        },
+        {
+          "id": 2,
+          "en": "The former is very much pushed by Silicon Valley, where AI is deployed to get products quickly to market and problems dealt with later. This has led to AI “succeeding” even when the goals aren't socially acceptable and they are pursued with little accountability. The pitfalls of this approach are highlighted by the role YouTube's algorithm plays in radicalizing people, given that there is no public understanding of how it works. Prof. Russell argues, reasonably, for a system of checks where machines can pause and “ask” for human guidance, and for regulations to deal with systemic biases.",
+          "zh": "硅谷大力推动的是前一种方法：部署人工智能，让产品快速进入市场，问题则留到以后再处理。结果是，即便目标在社会层面不可接受、追求目标时又几乎不承担责任，人工智能仍被称为“成功”。公众并不了解YouTube算法如何运作，而它在推动人们激进化方面所起的作用，凸显了这一方法的隐患。罗素教授有理由主张建立一种制衡机制，让机器可以暂停并“请求”人的指导，同时制定监管规则来处理系统性偏见。",
+          "role": "批评快速上市、事后处理问题的工程部署方式，提出人工指导与监管建议。"
+        },
+        {
+          "id": 3,
+          "en": "The academic also backs global adoption of EU legislation that would ban impersonation of humans by machines. Computers are getting closer to passing, in a superficial way, the Turing test—where machines attempt to trick people into believing they are communicating with other humans. Yet human knowledge is collective: to truly fool humans a computer would have to be able to grasp mutual understandings. Open AI's GPT-3, probably the best non-human writer ever, cannot comprehend what it spews. When Oxford scientists put it—and similar AIs—to the test this year, they found the machines produced false answers to questions that “mimic popular misconceptions and have the potential to deceive”. It so troubled one of Open AI's own researchers that no one knew how such language is being made that he left to set up an AI safety lab.",
+          "zh": "这位学者还支持在全球采用一项欧盟立法方案，以禁止机器冒充人类。计算机正越来越接近以一种表面的方式通过图灵测试——在这种测试中，机器试图让人误以为自己在与其他人类交流。然而，人类知识具有集体性：要真正骗过人类，计算机就必须能够把握彼此共有的理解。Open AI的GPT-3或许是当时最出色的非人类写作者，却无法理解自己输出的内容。文章所述当年，牛津科学家对它及类似AI进行测试，发现这些机器会给出模仿流行误解、可能具有欺骗性的错误答案。无人清楚这些语言究竟如何生成，这一情况使Open AI的一名研究人员深感不安，以至于他离职创办了一个AI安全实验室。",
+          "role": "提出禁止机器冒充人的主张，并用图灵测试、GPT-3说明表面流利不等于理解；为第118、119题提供证据。"
+        },
+        {
+          "id": 4,
+          "en": "Some argue that AI can already produce new insights that humans have missed But human intelligence is much more than an algorithm. Inspiration strikes when a brilliant thought arises that can't be explained as a logical consequence of preceding steps. Einstein's theory of general relativity cannot be derived from observations of that age—it was experimentally proven only decades later. Human beings can also learn a new task by being shown how to do it only a few times.",
+          "zh": "有人认为，人工智能已经能产生人类未曾注意到的新见解。但人类智能远不止一个算法。当一个出色的想法涌现、又无法被解释为先前步骤的逻辑结果时，灵感便出现了。爱因斯坦的广义相对论无法从当时的观测直接推导出来——直到数十年后，它才得到实验验证。人类还可以只在别人演示几次后，就学会一项新任务。",
+          "role": "先让步后转折，中心是人类智能不止算法；广义相对论作为灵感难以还原成先前步骤的例子。"
+        },
+        {
+          "id": 5,
+          "en": "Machines, so far, cannot. Currently, AI can be prompted—but not prompt itself—into action. Humans are stumbling into an era when the more powerful the AI system, the harder it is to explain its actions. How can we tell if a machine is acting on our behalf and not acting contrary to our interests? Such questions ought to give us all pause for thought.",
+          "zh": "到文章所讨论的阶段，机器还做不到这些。按作者当时的判断，人工智能可以被提示去行动，却不能自行发出提示而行动。人类正跌跌撞撞地进入这样一个时代：人工智能系统越强大，就越难解释它的行为。我们怎样才能判断机器是在代表我们行事，而不是违背我们的利益？这些问题应当让所有人停下来认真思考。",
+          "role": "以可解释性与利益一致性问题收束，延续对约束和审慎思考的呼吁。"
+        }
+      ],
+      "structure": "提出社会约束与两种AI思路 → 批评工程部署中的问责缺失 → 反对冒充人类并质疑表面理解 → 用灵感论证人类智能不止算法 → 追问可解释性和利益一致性。作者态度是审慎批评，核心不是否认一切AI进步。",
+      "questions": [
+        {
+          "id": 116,
+          "stem_en": "According to Paragraph 1 and Paragraph 2, Stuart Russell ( ).",
+          "stem_zh": "根据第一、二段，斯图尔特·罗素持什么观点？",
+          "original_key": "A",
+          "user_answer": "A",
+          "recommended_key": "A",
+          "type": "人物观点综合题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "suggested social control on AI",
+              "zh": "建议对人工智能施加社会层面的约束",
+              "verdict": "正确",
+              "analysis": "第一段说requires social limitations，第二段说system of checks、human guidance和regulations，均指向社会控制或约束。"
+            },
+            {
+              "letter": "B",
+              "en": "denied the imminence of AI progress",
+              "zh": "否认人工智能即将取得进步",
+              "verdict": "不选",
+              "analysis": "take a while只表示进步需要一些时间，并没有否认其会发生；denied把审慎时间判断强化为否认，且遗漏其社会约束主张。"
+            },
+            {
+              "letter": "C",
+              "en": "praised AI science for its great success",
+              "zh": "赞扬人工智能科学取得巨大成功",
+              "verdict": "不选",
+              "analysis": "原文succeeding带引号，随后指出目标不可接受及问责不足，是质疑而非赞扬。"
+            },
+            {
+              "letter": "D",
+              "en": "had a low opinion of AI for its potential risks",
+              "zh": "因为潜在风险而对人工智能评价很低",
+              "verdict": "不选",
+              "analysis": "强调风险未被充分衡量不等于贬低整个AI领域。作者明确说其并非科幻，主张约束而非全盘否定。"
+            }
+          ],
+          "evidence": "第1段“requires social limitations”；第2段“a system of checks”“ask for human guidance”“regulations”。",
+          "reasoning": "A能汇总两段实际建议。其他项分别把需要时间、带引号的成功和风险提醒加工成过强态度。",
+          "method": "人物观点题优先找该人物的argue、back、suggest等立场动词，并用多句证据综合，不凭一个情绪词判态度。",
+          "user_review": "你选A，正确。注意社会约束不必理解为单一行政手段，本篇还包括人类指导与制衡机制。"
+        },
+        {
+          "id": 117,
+          "stem_en": "The approach of viewing AI in engineering terms has ( ).",
+          "stem_zh": "从工程角度看待人工智能的方法导致了什么？",
+          "original_key": "B",
+          "user_answer": "B",
+          "recommended_key": "B",
+          "type": "因果细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "questioned the nature of human knowledge",
+              "zh": "对人类知识的本质提出质疑",
+              "verdict": "不选",
+              "analysis": "这是第一段第二种思路的内容，不是工程思路的结果；two approaches的归属被互换。"
+            },
+            {
+              "letter": "B",
+              "en": "contributed to socially irresponsible algorithms",
+              "zh": "助长了缺乏社会责任的算法",
+              "verdict": "正确",
+              "analysis": "第2段说目标可能不被社会接受、问责又很少，YouTube算法的激进化作用说明其后果，B概括这些问题。"
+            },
+            {
+              "letter": "C",
+              "en": "prevented the algorithmic radicalization",
+              "zh": "阻止了算法造成的激进化",
+              "verdict": "不选",
+              "analysis": "原文用radicalizing people揭示其隐患，该项把造成问题改成阻止问题。"
+            },
+            {
+              "letter": "D",
+              "en": "sped up the market entry of quality products",
+              "zh": "加快了高质量产品进入市场",
+              "verdict": "不选",
+              "analysis": "quickly to market支持“快速上市”，却不支持quality products。作者恰在批评问题被推迟处理，不能自行添加质量保证。"
+            }
+          ],
+          "evidence": "第2段：“goals aren't socially acceptable”“pursued with little accountability”“YouTube's algorithm ... radicalizing people”。",
+          "reasoning": "先识别The former回指第一种工程方法，再连接This has led to后的结果；B保留社会接受性与责任问题。",
+          "method": "双方法段落中给former／latter写上中文标签；选项里只要多一个quality、safe、effective之类褒义修饰，也要检查证据。",
+          "user_review": "你选B，正确。D是典型的“半句正确＋额外评价”干扰项：快速上市有据，质量高无据。"
+        },
+        {
+          "id": 118,
+          "stem_en": "According to Prof. Russell, machines ( ).",
+          "stem_zh": "根据罗素教授的观点，机器应当如何，或具有什么特征？",
+          "original_key": "A",
+          "user_answer": "B",
+          "recommended_key": "A",
+          "type": "人物主张细节题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "should be banned from pretending to be humans",
+              "zh": "应被禁止冒充人类",
+              "verdict": "正确",
+              "analysis": "第3段backs ... legislation that would ban impersonation of humans by machines直接对应；impersonation等于pretending to be humans。"
+            },
+            {
+              "letter": "B",
+              "en": "are especially helpful to counter social biases",
+              "zh": "特别有助于对抗社会偏见",
+              "verdict": "不选",
+              "analysis": "第2段提出用regulations处理systemic biases，承担治理作用的是监管规则；并不是机器特别能消除偏见，施事主体被换了。"
+            },
+            {
+              "letter": "C",
+              "en": "might get uniformly regulated at a global scale",
+              "zh": "可能在全球范围内受到统一监管",
+              "verdict": "不选",
+              "analysis": "原文是罗素支持在全球采用一项禁止机器冒充人的立法，属于特定规范主张；不等于预测所有机器可能受到全球统一监管。范围、内容和语气都被扩大。"
+            },
+            {
+              "letter": "D",
+              "en": "are not supposed to be supervised by humans",
+              "zh": "不应由人类监督",
+              "verdict": "不选",
+              "analysis": "与第2段提出checks和human guidance相反。"
+            }
+          ],
+          "evidence": "第3段开头：“backs global adoption of EU legislation that would ban impersonation of humans by machines”。",
+          "reasoning": "A精准对应禁止冒充人类的具体主张。C的global虽有原词来源，但把“支持采用特定规则”改成“可能全面统一监管”。",
+          "method": "遇到法规或治理主张，检查谁支持、禁止什么、范围到哪里，区分should的规范主张与might的可能性陈述。",
+          "user_review": "你选B，可能把“应以监管处理偏见”误读成“机器有助于反偏见”。把主谓宾写出来：regulations → deal with → biases。"
+        },
+        {
+          "id": 119,
+          "stem_en": "What does the author say about Open AI's GPT-3? ( )",
+          "stem_zh": "作者对Open AI的GPT-3作了什么表述？",
+          "original_key": "B",
+          "user_answer": "D",
+          "recommended_key": "D",
+          "type": "细节理解题（原卷答案争议）",
+          "options": [
+            {
+              "letter": "A",
+              "en": "Its language is impossible to understand.",
+              "zh": "它的语言不可能被理解。",
+              "verdict": "不选",
+              "analysis": "原文说GPT-3自己不能理解输出；另说研究人员不清楚语言生成机制。两者都不等于读者无法理解它生成的语言。对象及“不理解”的主体被偷换，impossible也过强。"
+            },
+            {
+              "letter": "B",
+              "en": "It is non-human but can truly fool humans.",
+              "zh": "它不是人类，却能真正骗过人类。",
+              "verdict": "原卷给定，但不受当前原文支持",
+              "analysis": "原文区分superficial与truly：要真正骗过人类需把握共有理解，而随即指出GPT-3不能理解其输出。false answers有欺骗潜能，也不能推出已经具备真正理解并真正骗过人的能力。"
+            },
+            {
+              "letter": "C",
+              "en": "Its programming is based on misconceptions.",
+              "zh": "它的编程以错误观念为基础。",
+              "verdict": "不选",
+              "analysis": "原文说机器产生的错误答案会模仿流行误解，并没有说其编程机制或编程基础就是误解。把输出特征偷换成程序来源。"
+            },
+            {
+              "letter": "D",
+              "en": "It is intelligent but cannot comprehend words.",
+              "zh": "它具有智能表现，但不能理解词语。",
+              "verdict": "四项中最接近原文，推荐",
+              "analysis": "cannot comprehend what it spews明确支持“不理解输出”的核心含义；probably the best non-human writer ever表明作者承认其语言生成表现。intelligent是选项自己的概括，不能据此宣称作者承认其具有人类式智能，因此D并不完美，但明显比B更符合文章转折。"
+            }
+          ],
+          "evidence": "第3段：“in a superficial way”“to truly fool humans ... grasp mutual understandings”；随后“GPT-3 ... cannot comprehend what it spews”。",
+          "reasoning": "必须保留原卷B与推荐D的区别。文章的论证链是“表面表现接近→真正骗过需共享理解→GPT-3不理解输出”，B跳过限制并得出相反方向，D保留核心对比。",
+          "method": "当回忆版答案与原文冲突时，按证据审查，不为答案编理由。区分“文字有欺骗可能”“通过表面测试”“具备真正理解”这三个层次。",
+          "user_review": "你选D。按原卷被计错，但依据当前题面，你的选择更合理；这题不应作为你理解能力不足的证据。复盘时记录为答案争议题，而不是机械背B。",
+          "caution": "推荐D为相对最佳，并非认可D措辞完全严密；intelligent及words比原文更概括。若需正式申诉，应核对原始考试题本与权威答案，不能仅以回忆版替代。"
+        },
+        {
+          "id": 120,
+          "stem_en": "Einstein's theory of general relativity is mentioned to show that ( ).",
+          "stem_zh": "文章提到爱因斯坦的广义相对论，是为了说明什么？",
+          "original_key": "C",
+          "user_answer": "D",
+          "recommended_key": "C",
+          "type": "例证作用题",
+          "options": [
+            {
+              "letter": "A",
+              "en": "AI-produced insights can be complementary to human thoughts",
+              "zh": "人工智能产生的见解可以补充人类思想",
+              "verdict": "不选",
+              "analysis": "段首Some argue承认AI可能有新见解，但But后转入人类智能的独特性，爱因斯坦例子服务的是转折后的论点。"
+            },
+            {
+              "letter": "B",
+              "en": "machines are comparable to humans in terms of logical thinking",
+              "zh": "机器在逻辑思维方面可与人类相比",
+              "verdict": "不选",
+              "analysis": "文章要突出灵感并非先前逻辑步骤的简单后果，没有通过该例证明人机逻辑能力可比。"
+            },
+            {
+              "letter": "C",
+              "en": "human intelligence can hardly be translated into an algorithm",
+              "zh": "人类智能很难被还原或转化为算法",
+              "verdict": "正确",
+              "analysis": "对应“But human intelligence is much more than an algorithm”。例子说明某些灵感并非由先前观测和步骤直接逻辑推出，服务于人类智能难以完全算法化的观点。"
+            },
+            {
+              "letter": "D",
+              "en": "brilliant scientific ideas always come way ahead of their time",
+              "zh": "杰出的科学思想总是远远领先于其时代",
+              "verdict": "不选",
+              "analysis": "实验在数十年后验证只是例子中的时间细节；作者未证明所有杰出科学思想都如此，always以个例推出普遍命题。"
+            }
+          ],
+          "evidence": "第4段：“But human intelligence is much more than an algorithm”“can't be explained as a logical consequence of preceding steps”，随后举广义相对论为例。",
+          "reasoning": "论证方向是“人类智能不只是算法→灵感不能完全按既有步骤解释→相对论例证”。D既停留于细节，也含绝对化always。",
+          "method": "例证题先找But后的中心句；用“作者拿这个例子来证明……”造句，避免把故事最醒目的信息当答案。",
+          "user_review": "你选D，可能被only decades later吸引。应把“多年后验证”的细节提升到作者的论点，但不能再扩大成所有科学思想都超前。"
+        }
+      ]
+    }
+  ]
+}

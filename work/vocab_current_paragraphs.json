@@ -1,0 +1,2639 @@
+[
+  {
+    "i": 0,
+    "text": "英语模块 二 核心单词与常用词汇组合",
+    "style": "Title",
+    "runs": [
+      {
+        "text": "英语模块 二 核心单词与常用词汇组合",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "text": "按四篇文章分别整理单词和搭配，兼收对应题干与选项中的重要词。英文、词性及本篇汉语义合成一条，每条单独一行；不采用横向多列背词。",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "按四篇文章分别整理单词和搭配，兼收对应题干与选项中的重要词。英文、词性及本篇汉语义合成一条，每条单独一行；不采用横向多列背词。",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 2,
+    "text": "词条均可在本卷文章、题干或选项中找到。为便于查记，单词以常见词形呈现，动词短语可能还原为原形，名词短语可能调整单复数；汉语义按本篇语境，不代表该词所有义项。",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "词条均可在本卷文章、题干或选项中找到。为便于查记，单词以常见词形呈现，动词短语可能还原为原形，名词短语可能调整单复数；汉语义按本篇语境，不代表该词所有义项。",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 3,
+    "text": "n.=名词；v.=动词；adj.=形容词；adv.=副词；prep.=介词。原卷拼写dechumanizing按规范dehumanizing收录。短语既包括固定搭配，也包括值得整体识别的常见组合及本卷关键表达。",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "n.=名词；v.=动词；adj.=形容词；adv.=副词；prep.=介词。原卷拼写dechumanizing按规范dehumanizing收录。短语既包括固定搭配，也包括值得整体识别的常见组合及本卷关键表达。",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 4,
+    "text": "建议先记本篇义，再回原句确认搭配；对同义替换成组复习，如vulnerable／susceptible、guarantee／warranty、relentless／constant。",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "建议先记本篇义，再回原句确认搭配；对同义替换成组复习，如vulnerable／susceptible、guarantee／warranty、relentless／constant。",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 5,
+    "text": "第一篇 价格体系 第101至105题",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "第一篇 价格体系 第101至105题",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "text": "单词",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "单词",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "text": "ration  v.  按一定规则分配、限量供应",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "ration  v.  按一定规则分配、限量供应",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "text": "myriad  n./adj.  大量；无数的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "myriad  n./adj.  大量；无数的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 9,
+    "text": "labor  n.  劳动；劳务",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "labor  n.  劳动；劳务",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 10,
+    "text": "utility  n.  公用事业",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "utility  n.  公用事业",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 11,
+    "text": "particular  adj.  某一特定的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "particular  adj.  某一特定的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 12,
+    "text": "quantity  n.  数量",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "quantity  n.  数量",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 13,
+    "text": "delivery  n.  交付；交货",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "delivery  n.  交付；交货",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 14,
+    "text": "privilege  n.  权利；特权",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "privilege  n.  权利；特权",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 15,
+    "text": "warranty  n.  保修；担保",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "warranty  n.  保修；担保",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 16,
+    "text": "inherent  adj.  内在的；固有的（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "inherent  adj.  内在的；固有的（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 17,
+    "text": "allocation  n.  配置；分配（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "allocation  n.  配置；分配（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 18,
+    "text": "常用词汇组合与搭配",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "常用词汇组合与搭配",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 19,
+    "text": "be in limited supply  供应有限",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be in limited supply  供应有限",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 20,
+    "text": "be rationed among buyers  在购买者之间被分配",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be rationed among buyers  在购买者之间被分配",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 21,
+    "text": "a myriad of services  大量的服务",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "a myriad of services  大量的服务",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 22,
+    "text": "public-utility services  公用事业服务",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "public-utility services  公用事业服务",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 23,
+    "text": "make up  构成",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "make up  构成",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 24,
+    "text": "the money value of  ……的货币价值",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "the money value of  ……的货币价值",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 25,
+    "text": "as agreed upon  按照商定的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "as agreed upon  按照商定的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 26,
+    "text": "as far as it goes  就其涉及的范围而言；虽正确但不全面",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "as far as it goes  就其涉及的范围而言；虽正确但不全面",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 27,
+    "text": "not only ... but ...  不仅……而且……",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "not only ... but ...  不仅……而且……",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 28,
+    "text": "take place  发生；进行",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "take place  发生；进行",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 29,
+    "text": "make payment  付款",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "make payment  付款",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 30,
+    "text": "credit terms  信用条件；赊付条件",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "credit terms  信用条件；赊付条件",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 31,
+    "text": "delivery terms  交付条件",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "delivery terms  交付条件",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 32,
+    "text": "return privileges  退货权利",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "return privileges  退货权利",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 33,
+    "text": "be fully aware of  充分意识到；完全了解",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be fully aware of  充分意识到；完全了解",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 34,
+    "text": "the total package  整体组合；一揽子内容",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "the total package  整体组合；一揽子内容",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 35,
+    "text": "in order that  以便；为了使",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "in order that  以便；为了使",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 36,
+    "text": "resource allocation  资源配置（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "resource allocation  资源配置（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 37,
+    "text": "第二篇 数字支付 第106至110题",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "第二篇 数字支付 第106至110题",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 38,
+    "text": "单词",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "单词",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 39,
+    "text": "creased  adj.  有折痕的；皱的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "creased  adj.  有折痕的；皱的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 40,
+    "text": "clinking  adj.  叮当作响的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "clinking  adj.  叮当作响的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 41,
+    "text": "endangered  adj.  濒危的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "endangered  adj.  濒危的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 42,
+    "text": "prospect  n.  前景",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "prospect  n.  前景",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 43,
+    "text": "mint  v.  铸造硬币",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "mint  v.  铸造硬币",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 44,
+    "text": "dematerialize  v.  去物质化；不再依靠有形现金",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "dematerialize  v.  去物质化；不再依靠有形现金",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 45,
+    "text": "theft  n.  盗窃",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "theft  n.  盗窃",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 46,
+    "text": "fraud  n.  欺诈",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "fraud  n.  欺诈",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 47,
+    "text": "evasion  n.  逃避；规避",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "evasion  n.  逃避；规避",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 48,
+    "text": "blackout  n.  停电",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "blackout  n.  停电",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 49,
+    "text": "eradicate  v.  彻底消除",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "eradicate  v.  彻底消除",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 50,
+    "text": "snoop  v.  窥探；刺探",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "snoop  v.  窥探；刺探",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 51,
+    "text": "entity  n.  实体；机构",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "entity  n.  实体；机构",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 52,
+    "text": "exploit  v.  利用；开发；此处指利用个人数据",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "exploit  v.  利用；开发；此处指利用个人数据",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 53,
+    "text": "remedy  n.  解决办法",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "remedy  n.  解决办法",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 54,
+    "text": "monopoly  n.  垄断",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "monopoly  n.  垄断",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 55,
+    "text": "stranglehold  n.  钳制；强力控制",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "stranglehold  n.  钳制；强力控制",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 56,
+    "text": "plumbing  n.  基础管道；本篇喻支付基础设施",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "plumbing  n.  基础管道；本篇喻支付基础设施",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 57,
+    "text": "resilient  adj.  有韧性的；能恢复的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "resilient  adj.  有韧性的；能恢复的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 58,
+    "text": "monetize  v.  使货币化；变现",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "monetize  v.  使货币化；变现",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 59,
+    "text": "spontaneous  adj.  自发的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "spontaneous  adj.  自发的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 60,
+    "text": "susceptible  adj.  易受……影响的（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "susceptible  adj.  易受……影响的（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 61,
+    "text": "常用词汇组合与搭配",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "常用词汇组合与搭配",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 62,
+    "text": "settle bar tabs  结清酒吧账单",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "settle bar tabs  结清酒吧账单",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 63,
+    "text": "day-to-day dealings  日常交易",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "day-to-day dealings  日常交易",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 64,
+    "text": "take off  迅速发展；开始流行；起飞；脱下",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "take off  迅速发展；开始流行",
+        "size": null,
+        "bold": null,
+        "font": null
+      },
+      {
+        "text": "；",
+        "size": null,
+        "bold": null,
+        "font": null
+      },
+      {
+        "text": "起飞；脱下",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 65,
+    "text": "be about to  即将",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be about to  即将",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 66,
+    "text": "an endangered species  濒危物种",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "an endangered species  濒危物种",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 67,
+    "text": "pose new problems  带来新问题",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "pose new problems  带来新问题",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 68,
+    "text": "hold the transition hostage  使转型受制；阻碍转型",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "hold the transition hostage  使转型受制；阻碍转型",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 69,
+    "text": "in the main  总体而言；大体上",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "in the main  总体而言；大体上",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 70,
+    "text": "tax evasion  逃税",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "tax evasion  逃税",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 71,
+    "text": "sole traders  个体商户",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "sole traders  个体商户",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 72,
+    "text": "have a stranglehold  牢牢控制；扼住咽喉",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "have a stranglehold  牢牢控制；扼住咽喉",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 73,
+    "text": "step in  介入；补位",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "step in  介入；补位",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 74,
+    "text": "so long as  只要",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "so long as  只要",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 75,
+    "text": "be made explicit to users  向用户明确说明",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be made explicit to users  向用户明确说明",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 76,
+    "text": "the phase-out of cash  现金的逐步退出",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "the phase-out of cash  现金的逐步退出",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 77,
+    "text": "be obliged to  被要求；有义务",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be obliged to  被要求；有义务",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 78,
+    "text": "buy governments time  为政府争取时间",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "buy governments time  为政府争取时间",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 79,
+    "text": "beef up internet access  加强互联网接入",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "beef up internet access  加强互联网接入",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 80,
+    "text": "change hands  易手；转手",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "change hands  易手；转手",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 81,
+    "text": "第三篇 工作场所监控 第111至115题",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "第三篇 工作场所监控 第111至115题",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 82,
+    "text": "单词",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "单词",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 83,
+    "text": "surveillance  n.  监控；监视",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "surveillance  n.  监控；监视",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 84,
+    "text": "dehumanizing  adj.  非人性化的；使人失去人性化对待的（规范拼写）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "dehumanizing  adj.  非人性化的；使人失去人性化对待的（规范拼写）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 85,
+    "text": "relentless  adj.  持续不断的；不减弱的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "relentless  adj.  持续不断的；不减弱的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 86,
+    "text": "productivity  n.  生产力；工作效率",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "productivity  n.  生产力；工作效率",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 87,
+    "text": "revenue  n.  收入；营业收入",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "revenue  n.  收入；营业收入",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 88,
+    "text": "assess  v.  评估",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "assess  v.  评估",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 89,
+    "text": "interact  v.  互动；交流",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "interact  v.  互动；交流",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 90,
+    "text": "analytics  n.  数据分析",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "analytics  n.  数据分析",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 91,
+    "text": "exhaust  n.  废气；本篇喻数字行为的残留痕迹",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "exhaust  n.  废气；本篇喻数字行为的残留痕迹",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 92,
+    "text": "badge  n.  姓名牌；证章",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "badge  n.  姓名牌；证章",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 93,
+    "text": "identification  n.  识别；选项中也指认同",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "identification  n.  识别；选项中也指认同",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 94,
+    "text": "intrusive  adj.  侵扰的；侵犯私人空间的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "intrusive  adj.  侵扰的；侵犯私人空间的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 95,
+    "text": "exponent  n.  倡导者；支持者",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "exponent  n.  倡导者；支持者",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 96,
+    "text": "bullying  n.  欺凌",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "bullying  n.  欺凌",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 97,
+    "text": "harassment  n.  骚扰",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "harassment  n.  骚扰",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 98,
+    "text": "outperform  v.  表现优于",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "outperform  v.  表现优于",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 99,
+    "text": "undetected  adj.  未被发现的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "undetected  adj.  未被发现的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 100,
+    "text": "implant  n./v.  植入物；植入",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "implant  n./v.  植入物；植入",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 101,
+    "text": "correlate  v.  相关联",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "correlate  v.  相关联",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 102,
+    "text": "biometrics  n.  生物识别技术",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "biometrics  n.  生物识别技术",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 103,
+    "text": "voluntary  adj.  自愿的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "voluntary  adj.  自愿的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 104,
+    "text": "substantial  adj.  相当多的；大量的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "substantial  adj.  相当多的；大量的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 105,
+    "text": "detrimental  adj.  有害的；不利的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "detrimental  adj.  有害的；不利的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 106,
+    "text": "autonomy  n.  自主权",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "autonomy  n.  自主权",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 107,
+    "text": "initiative  n.  举措；倡议",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "initiative  n.  举措；倡议",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 108,
+    "text": "revolt  n.  反抗；反叛",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "revolt  n.  反抗；反叛",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 109,
+    "text": "anonymised  adj.  经匿名化处理的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "anonymised  adj.  经匿名化处理的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 110,
+    "text": "skeptical  adj.  怀疑的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "skeptical  adj.  怀疑的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 111,
+    "text": "erosion  n.  侵蚀；逐步削弱",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "erosion  n.  侵蚀；逐步削弱",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 112,
+    "text": "liberty  n.  自由；自由权利",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "liberty  n.  自由；自由权利",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 113,
+    "text": "empower  v.  赋权；使更有自主能力",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "empower  v.  赋权；使更有自主能力",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 114,
+    "text": "oppression  n.  压迫",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "oppression  n.  压迫",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 115,
+    "text": "counterproductive  adj.  适得其反的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "counterproductive  adj.  适得其反的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 116,
+    "text": "universally  adv.  普遍地；一致地（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "universally  adv.  普遍地；一致地（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 117,
+    "text": "entitled  adj.  依法或理应享有某种权利的（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "entitled  adj.  依法或理应享有某种权利的（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 118,
+    "text": "常用词汇组合与搭配",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "常用词汇组合与搭配",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 119,
+    "text": "be on the rise  正在增加；呈上升趋势",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be on the rise  正在增加；呈上升趋势",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 120,
+    "text": "squeeze more productivity from workers  从员工身上获取更多生产力",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "squeeze more productivity from workers  从员工身上获取更多生产力",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 121,
+    "text": "annual revenue  年收入",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "annual revenue  年收入",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 122,
+    "text": "monitor employee performance  监控员工表现",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "monitor employee performance  监控员工表现",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 123,
+    "text": "data exhaust  数据尾气；数字行为留下的痕迹",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "data exhaust  数据尾气；数字行为留下的痕迹",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 124,
+    "text": "instant messaging apps  即时通信应用",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "instant messaging apps  即时通信应用",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 125,
+    "text": "be equipped with  配备有",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be equipped with  配备有",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 126,
+    "text": "radio-frequency identification devices  射频识别装置",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "radio-frequency identification devices  射频识别装置",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 127,
+    "text": "tone of voice  语调",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "tone of voice  语调",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 128,
+    "text": "dominate conversations  主导谈话",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "dominate conversations  主导谈话",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 129,
+    "text": "protect employees against  保护员工免遭……",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "protect employees against  保护员工免遭……",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 130,
+    "text": "sexual harassment  性骚扰",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "sexual harassment  性骚扰",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 131,
+    "text": "produce unexpected results  产生意想不到的结果",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "produce unexpected results  产生意想不到的结果",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 132,
+    "text": "co-working space  共享办公空间",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "co-working space  共享办公空间",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 133,
+    "text": "heart rate  心率",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "heart rate  心率",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 134,
+    "text": "opt to  选择做某事",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "opt to  选择做某事",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 135,
+    "text": "slack time  空闲时间；非忙碌时间",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "slack time  空闲时间；非忙碌时间",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 136,
+    "text": "rest breaks  休息间隙",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "rest breaks  休息间隙",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 137,
+    "text": "take away autonomy  剥夺自主权",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "take away autonomy  剥夺自主权",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 138,
+    "text": "assume the worst  作最坏的推想",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "assume the worst  作最坏的推想",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 139,
+    "text": "be open about  对……坦诚；公开说明",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be open about  对……坦诚；公开说明",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 140,
+    "text": "civil liberties  公民自由",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "civil liberties  公民自由",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 141,
+    "text": "in the wrong way  以错误的方式",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "in the wrong way  以错误的方式",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 142,
+    "text": "infringe upon  侵犯；侵害（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "infringe upon  侵犯；侵害（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 143,
+    "text": "refrain from  克制；避免做……（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "refrain from  克制；避免做……（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 144,
+    "text": "第四篇 人工智能与社会约束 第116至120题",
+    "style": "Heading 1",
+    "runs": [
+      {
+        "text": "第四篇 人工智能与社会约束 第116至120题",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 145,
+    "text": "单词",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "单词",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 146,
+    "text": "enterprise  n.  事业；活动；此处不是公司",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "enterprise  n.  事业；活动；此处不是公司",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 147,
+    "text": "emerging  adj.  新出现的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "emerging  adj.  新出现的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 148,
+    "text": "philosophical  adj.  哲学的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "philosophical  adj.  哲学的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 149,
+    "text": "accountability  n.  责任；问责；承担责任",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "accountability  n.  ",
+        "size": null,
+        "bold": null,
+        "font": null
+      },
+      {
+        "text": "责任；",
+        "size": null,
+        "bold": null,
+        "font": null
+      },
+      {
+        "text": "问责；承担责任",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 150,
+    "text": "radicalize  v.  使激进化",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "radicalize  v.  使激进化",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 151,
+    "text": "systemic  adj.  系统性的；结构性的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "systemic  adj.  系统性的；结构性的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 152,
+    "text": "bias  n.  偏见；偏差",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "bias  n.  偏见；偏差",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 153,
+    "text": "legislation  n.  立法；法律法规",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "legislation  n.  立法；法律法规",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 154,
+    "text": "impersonation  n.  冒充；假扮",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "impersonation  n.  冒充；假扮",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 155,
+    "text": "superficial  adj.  表面的；肤浅的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "superficial  adj.  表面的；肤浅的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 156,
+    "text": "collective  adj.  集体的；共同的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "collective  adj.  集体的；共同的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 157,
+    "text": "grasp  v.  理解；领会",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "grasp  v.  理解；领会",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 158,
+    "text": "comprehend  v.  理解",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "comprehend  v.  理解",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 159,
+    "text": "spew  v.  大量吐出；本篇贬指生成输出",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "spew  v.  大量吐出；本篇贬指生成输出",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 160,
+    "text": "mimic  v.  模仿",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "mimic  v.  模仿",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 161,
+    "text": "misconception  n.  错误认识；误解",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "misconception  n.  错误认识；误解",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 162,
+    "text": "deceive  v.  欺骗",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "deceive  v.  欺骗",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 163,
+    "text": "insight  n.  洞见；新见解",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "insight  n.  洞见；新见解",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 164,
+    "text": "inspiration  n.  灵感",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "inspiration  n.  灵感",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 165,
+    "text": "brilliant  adj.  出色的；卓越的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "brilliant  adj.  出色的；卓越的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 166,
+    "text": "preceding  adj.  在前的；先前的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "preceding  adj.  在前的；先前的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 167,
+    "text": "derive  v.  推导；获得",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "derive  v.  推导；获得",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 168,
+    "text": "observation  n.  观测；观察",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "observation  n.  观测；观察",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 169,
+    "text": "prompt  v.  提示；促使行动",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "prompt  v.  提示；促使行动",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 170,
+    "text": "stumble  v.  踉跄；跌跌撞撞",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "stumble  v.  踉跄；跌跌撞撞",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 171,
+    "text": "imminence  n.  即将发生；迫近（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "imminence  n.  即将发生；迫近（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 172,
+    "text": "uniformly  adv.  统一地；一致地（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "uniformly  adv.  统一地；一致地（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 173,
+    "text": "complementary  adj.  互补的（选项）",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "complementary  adj.  互补的（选项）",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 174,
+    "text": "regulation  n.  监管规则；规章",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "regulation  n.  监管规则；规章",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 175,
+    "text": "常用词汇组合与搭配",
+    "style": "Heading 2",
+    "runs": [
+      {
+        "text": "常用词汇组合与搭配",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 176,
+    "text": "take a while  需要一段时间",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "take a while  需要一段时间",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 177,
+    "text": "science fiction  科幻",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "science fiction  科幻",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 178,
+    "text": "social limitations  社会约束",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "social limitations  社会约束",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 179,
+    "text": "in engineering terms  从工程角度；题面漏in，按规范搭配收录",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "in engineering terms  从工程角度；题面漏in，按规范搭配收录",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 180,
+    "text": "the nature of human knowledge  人类知识的本质",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "the nature of human knowledge  人类知识的本质",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 181,
+    "text": "get products quickly to market  让产品快速上市",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "get products quickly to market  让产品快速上市",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 182,
+    "text": "socially acceptable  社会可接受的",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "socially acceptable  社会可接受的",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 183,
+    "text": "with little accountability  几乎不承担责任；问责不足",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "with little accountability  几乎不承担责任；问责不足",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 184,
+    "text": "a system of checks  一套制衡或核查机制",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "a system of checks  一套制衡或核查机制",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 185,
+    "text": "human guidance  人类指导",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "human guidance  人类指导",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 186,
+    "text": "deal with systemic biases  处理系统性偏见",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "deal with systemic biases  处理系统性偏见",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 187,
+    "text": "global adoption  在全球采用",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "global adoption  在全球采用",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 188,
+    "text": "ban impersonation of humans by machines  禁止机器冒充人类",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "ban impersonation of humans by machines  禁止机器冒充人类",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 189,
+    "text": "the Turing test  图灵测试",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "the Turing test  图灵测试",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 190,
+    "text": "trick people into believing  诱使人们相信",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "trick people into believing  诱使人们相信",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 191,
+    "text": "mutual understandings  彼此共有的理解",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "mutual understandings  彼此共有的理解",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 192,
+    "text": "put ... to the test  对……进行测试或检验",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "put ... to the test  对……进行测试或检验",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 193,
+    "text": "have the potential to deceive  具有欺骗的可能",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "have the potential to deceive  具有欺骗的可能",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 194,
+    "text": "set up an AI safety lab  创办人工智能安全实验室",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "set up an AI safety lab  创办人工智能安全实验室",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 195,
+    "text": "a logical consequence of  ……的逻辑结果",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "a logical consequence of  ……的逻辑结果",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 196,
+    "text": "theory of general relativity  广义相对论",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "theory of general relativity  广义相对论",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 197,
+    "text": "be derived from observations  从观测中推导出来",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "be derived from observations  从观测中推导出来",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 198,
+    "text": "on our behalf  代表我们；为我们的利益",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "on our behalf  代表我们；为我们的利益",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 199,
+    "text": "contrary to our interests  违背我们的利益",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "contrary to our interests  违背我们的利益",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  },
+  {
+    "i": 200,
+    "text": "give us all pause for thought  让我们所有人停下来认真思考",
+    "style": "Normal",
+    "runs": [
+      {
+        "text": "give us all pause for thought  让我们所有人停下来认真思考",
+        "size": null,
+        "bold": null,
+        "font": null
+      }
+    ]
+  }
+]

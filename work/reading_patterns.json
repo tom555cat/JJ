@@ -1,0 +1,514 @@
+{
+  "title": "英语模块（三）｜篇章阅读题型、干扰项机制与解题训练",
+  "intro": [
+    "适用范围：与本卷相近的公共议题说明文、议论文篇章阅读，可用于类似副省级篇章阅读风格的训练。本册依据用户提供的四篇文章及第101—120题归纳，不代表任何考试的官方题型比例或固定命题规律。",
+    "训练目标是在足够理解的基础上，识别作者的论点、支撑关系和限制条件，再给每个选项找到证据或指出改动处。",
+    "本卷英语按PDF答案为10/20；第119题按当前原文推荐D，则文本复核为11/20。第106题B有部分依据，D是更直接的最佳项。下面既讲可复用方法，也保留回忆版不严密处。",
+    "本册采用题型、步骤、真题例子、干扰机制、练习、复盘的顺序。观点归属、量词范围和例证作用，是你这套题最值得优先补强的三个环节。"
+  ],
+  "sections": [
+    {
+      "title": "1. 先建立整篇阅读的工作流程",
+      "paragraphs": [
+        "第一步，读题干但先不细看全部选项。圈出题型词和定位词：According to、NOT、refers to、mentioned to show、main idea，以及人名、段号、特殊名词。这样可以知道后面需要搜集什么证据，也降低被选项先入为主影响的概率。",
+        "第二步，快速读全文骨架。首段确定话题和核心问题；每段找主题句、转折、例子和结论；给每段写不超过六个字的功能标签。本卷可分别写成“价格复杂→简单定义→完整组合”“趋势→收益→风险→三对策”“争议→支持→意外收益→边界→沟通→总结”“社会约束→工程隐患→表面理解→灵感→审慎”。",
+        "第三步，回题定位。细节题通常读定位句前后各一句，必要时扩大到整段；主旨题则回看每段功能。答案证据应是一条可复述的意思，而不只是文章里出现的某个词。",
+        "第四步，逐项核对五件事：谁在说或行动，谈的是什么对象，范围有多大，语气有多强，处于什么时间或条件。之后再核对因果、对比和例证关系。",
+        "第五步，选最佳项并记录证据。可以用两句中文完成：“这项对，因为原文……；最像正确项的干扰项错在把……改成……。”如果解释只能写“原文提到了这个词”，通常还没完成核查。",
+        "速度训练应在理解正确后逐步加入。可试用一篇10—12分钟的练习窗口，再根据自己速度调整；这只是训练安排，不是本考试官方时间要求。遇到难词先判断是否影响主干和选项差异，影响再精读，不影响先保留。"
+      ]
+    },
+    {
+      "title": "2. 本卷题型分布与各题入口",
+      "paragraphs": [
+        "下表把原因、人物观点、条件和因果都归入细节理解大类。分类服务于解题，不意味着命题官方采用同一划分。"
+      ],
+      "table": {
+        "headers": [
+          "题型",
+          "本卷题号",
+          "优先入口",
+          "答案层级"
+        ],
+        "rows": [
+          [
+            "细节理解（含否定、原因、观点、条件）",
+            "101、102、106、108、109、111、112、114、115、116、117、118、119（13题）",
+            "定位词及相邻句；限定段落优先",
+            "原文明确意思或约束充分的改写"
+          ],
+          [
+            "代词指代",
+            "103（1题）",
+            "所在句主干及上文",
+            "数、语义、动作均可代回的先行词"
+          ],
+          [
+            "下文预测",
+            "104（1题）",
+            "尾段尤其尾句",
+            "承接并展开尚未解释的问题"
+          ],
+          [
+            "标题／主旨",
+            "105、110（2题）",
+            "全篇功能及首尾",
+            "覆盖主要板块且态度一致的总括"
+          ],
+          [
+            "例证作用",
+            "107、113、120（3题）",
+            "例子前后观点句",
+            "被证明的论点，不是事例自身细节"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "3. 细节题：用证据逐格核对，特别注意NOT",
+      "paragraphs": [
+        "普通细节题按“定位→读完整句→翻译关键关系→匹配同义表达”处理。限定According to Paragraph 4，就先从第4段找证据；只有代词或对比需要回溯时，才向相邻段扩大。不要把常识或个人立场带进政策、科技文章。",
+        "第101题的primarily要求抓总类。原文列举劳动、运输和公用事业，是在说明services；真正与价格体系相联的上位对象是products and services。B中的transportation出现过，并不意味着“运输和保险”这整项成立。",
+        "第108题是完整核对的范例：政府应敦促银行提供便宜、即时、银行间数字转账，C保留主体、动作和内容；B将硬币纸币上的中央垄断改成央行对数字货币的垄断；D把a range of放大成all。",
+        "否定细节题先圈NOT、EXCEPT、least等词，再用排除法做三项正向匹配。第102题中quantity对应amount，quality原词复现，warranties对应guarantees，只有instructions未列入。答案是文中没有列作该因素，不是对现实世界作“它绝对不影响价格”的判断。",
+        "第106题提醒我们：不要把一切四选一题都讲成三项完全错误。B的tackle fraud可以与更密切监控欺诈部分相容，D直接复述提高经济效率。遇到这种竞争，写清直接性和措辞边界，推荐最佳项，而不是扭曲词义来迎合答案。"
+      ],
+      "items": [
+        "检查对象：coins and notes不能无条件改成digital money；civil liberties不能换成workplace environment。",
+        "检查量词：many不是universally；some不是全部；a range of不是all。",
+        "检查修饰语：quickly to market支持快速上市，不能自动支持quality products。",
+        "检查否定范围：Rather than后是作者排除的做法，不是建议。",
+        "检查两半是否都成立：both mental and physical harm中，不能只证明mental就接受整项。"
+      ]
+    },
+    {
+      "title": "4. 原因、观点与条件题：把“谁说什么”写出来",
+      "paragraphs": [
+        "同一段常包含反对者理由、支持者论点、企业目的和作者结论。它们话题相近，立场却不同。阅读时可在页边标“员工怕”“企业想”“支持者说”“作者判”，再给每项内容建立归属。",
+        "第111题问many people为什么反对，because后直接给出持续压力；企业squeezing more productivity是为什么采用监控，不能因位置相邻就当成反对者的直接理由。",
+        "第112题supporters对应exponents，argue后是保护员工免遭欺凌与性骚扰。设备具备射频识别功能，不等于增强员工对企业的认同感；同一个identification在不同词组中义项不同。",
+        "第115题问many staffers的concern，应锁定fear an erosion of their civil liberties。末段counterproductive是作者在实施不当前提下的总结，不是员工那一句明确担忧。选项用了原词，却改变观点持有者，仍然不能选。",
+        "第118题的社会偏见由regulations去deal with，不能改写成机器能帮助消除偏见。把regulations→deal with→biases写成主谓宾，B的问题就很清楚。",
+        "条件题重点看if、as long as、so long as、unless、only、provided等。第三篇支持自愿、以便利为目的的应用，但反对压缩休息和剥夺自主权；第二篇允许企业把数据变现，前提是商业模式向用户说明。删去前提就会把有限许可改成无条件许可。"
+      ],
+      "table": {
+        "headers": [
+          "原文结构",
+          "对应关系",
+          "常见误读"
+        ],
+        "rows": [
+          [
+            "Many oppose ... because ... pressure",
+            "反对者→理由→持续压力",
+            "拿企业目的替代反对原因"
+          ],
+          [
+            "exponents argue ... protect employees",
+            "支持者→主张→保护员工",
+            "把技术识别当企业认同"
+          ],
+          [
+            "staffers ... fear ... civil liberties",
+            "员工→担心→自由受侵蚀",
+            "拿作者总结替代员工担忧"
+          ],
+          [
+            "regulations to deal with systemic biases",
+            "监管规则→治理→偏见",
+            "把治理主体改成机器"
+          ],
+          [
+            "so long as ... made explicit to users",
+            "可变现→条件→明示",
+            "删除条件，变成任意利用数据"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "5. 例证作用题：离开故事细节，找到它证明的论点",
+      "paragraphs": [
+        "题干出现mentioned to illustrate、by the example、mentioned to show，通常不是问发生了什么，而是问作者为何写它。先认出例子边界，再看例子前一句的概括；如果前句没有明显概括，就看后句是否归纳。用“作者用这个例子证明……”造句，比记故事更有效。",
+        "第107题破折号前说支付系统可能遭网络攻击，后面举Capital One被黑客攻击，A就是所证观点。同段还提到农村居民和隐私，不意味着银行遇袭也在证明这两件事。",
+        "第113题For example前写明data analysis can produce unexpected results。十二人桌与四人桌的对比只负责证明意外发现；C描述互动现象，却停留在例子内部，还容易被理解为人数越多越好，这都不是举例的目的。",
+        "第120题在But human intelligence is much more than an algorithm后，用灵感和广义相对论展开。多年后被验证是例子中的细节，作者借此强调不能把人类智能简化为算法。D把时间细节放大为always命题，既错层又绝对化。",
+        "例子不是必须逐个记住的事实清单，而是论点与证据的连接。若选项只重复专名、人数、年代，应警惕它回答的是“例子说什么”，而不是“证明什么”。"
+      ]
+    },
+    {
+      "title": "6. 主旨、标题与续写：用段落功能控制范围",
+      "paragraphs": [
+        "主旨题先不看选项，用“对象＋作者主要说了什么”写一句。第一篇：价格体系复杂，评价价格需要考虑交易整体条件。第二篇：数字支付有收益也有风险，应采取三类措施解决。再看哪个选项覆盖这句话。",
+        "标题有三个标准：对象准确、范围合适、态度一致。第105题complexities覆盖全文；credit terms只是清单一项；inherent weakness把中性复杂性改成负面缺陷；resource allocation只抓住开头引入。",
+        "第110题C抓住政府和银行在后半篇的重要性，却遗漏收益和风险。出现频率高的主体不必然是主旨，篇幅最长的一部分也未必能单独当全文概括。B同时覆盖pros、cons和how to tackle problems。",
+        "作者态度要看条件和让步：第三篇结论是could be empowering，但wrong way会counterproductive，不能归纳成作者坚决支持监控或监控必然有害；第四篇主张约束与审慎，也不是否认AI一切进展。",
+        "续写题看尾句已提出却未展开的概念。第一篇末尾有total package与evaluate a given price，第104题D承接各要素如何影响市场价值。后文当然也可能谈付款，但B只抓其中一项，连接没有D紧密。续写要求最可能，不是任意可能。"
+      ],
+      "items": [
+        "给每段写功能标签，避免所有段落都只写同一个话题词。",
+        "拿候选主旨回套每段：是否能解释该段为什么存在？",
+        "标题若出现新的评价，例如弱点、成功、危机，检查作者是否支持。",
+        "续写题利用尾句关键词与未回答问题，不凭生活常识猜后文。"
+      ]
+    },
+    {
+      "title": "7. 指代题：就近只是线索，数和语义才是验证",
+      "paragraphs": [
+        "第103题they前面有all the factors和money，但they may evaluate要求能评价价格的主体。句子主语both buyer and seller是复数、有人称且能够执行评价动作，因此选C。",
+        "先向前找可能的先行词，再核对单复数或可数性，接着核对动作是否成立，最后代回原句读一遍。先行词不一定是最近的名词；介词短语、定语从句和长宾语都可能把真正主语隔开。",
+        "this、that、it也可能指代整件事。第二篇This will buy governments time中的This指银行继续收发现金这项安排；spontaneous demand解释数字货币热潮，不能换成继续提供现金服务的原因。",
+        "former／latter是篇章指代：第四篇former对应工程方法，不对应哲学思路。先把两个对象编号，再读第二段因果链，可以避免第117题A那类归属互换。"
+      ]
+    },
+    {
+      "title": "8. 十六种常见挖坑方式：原词相同也要检查关系",
+      "paragraphs": [
+        "“挖坑”在这里指干扰选项的常见改写机制，不意味着所有题都使用某种固定套路。表中真题号来自本卷；条件与语气的补充提醒来自原文，可用于迁移训练。",
+        "发现all、always、never、only、must等词时应提高警惕，但不能见绝对词就排除。若原文明确说all，选项保留all完全可能正确；真正依据是选项与原文范围是否一致。"
+      ],
+      "table": {
+        "headers": [
+          "机制",
+          "本卷真例",
+          "改动点／核查办法"
+        ],
+        "rows": [
+          [
+            "1. 范围扩大",
+            "108D：a range of→all；111B：many→universally",
+            "多个、许多升级为全部或一致"
+          ],
+          [
+            "2. 个例推出普遍规律",
+            "120D：相对论多年后验证→思想always超前",
+            "一个例子不足以证明所有情况"
+          ],
+          [
+            "3. 时间提前",
+            "106A：is about to→has already",
+            "即将不等于已经"
+          ],
+          [
+            "4. 添加质量或强度",
+            "117D：quickly to market→quality products",
+            "快不等于质量高"
+          ],
+          [
+            "5. 更换观点持有者",
+            "115D：作者结论→员工担忧",
+            "谁说、谁怕、谁评价必须一致"
+          ],
+          [
+            "6. 更换动作主体",
+            "118B：监管治理偏见→机器治理偏见",
+            "主谓宾对应，不能只看biases"
+          ],
+          [
+            "7. 更换受影响对象",
+            "115B：civil liberties→workplace environment",
+            "erosion的宾语被换掉"
+          ],
+          [
+            "8. 正反颠倒",
+            "108A、117C",
+            "反对垄断写成允许控制；激进化隐患写成阻止"
+          ],
+          [
+            "9. 局部替整体",
+            "105C信用条款；110C政府银行作用",
+            "核查能否覆盖全文"
+          ],
+          [
+            "10. 举例内容替代目的",
+            "113C、120D",
+            "回到例子前后总括句"
+          ],
+          [
+            "11. 原词拼接",
+            "101B：transportation＋insurance",
+            "前半出现不代表整项成立"
+          ],
+          [
+            "12. 一词多义或概念近似",
+            "112B识别／认同；105A复杂／弱点",
+            "核对本句义项和态度"
+          ],
+          [
+            "13. 输出与机制混淆",
+            "119C：输出模仿误解→编程基于误解",
+            "不能无证据倒推设计机制"
+          ],
+          [
+            "14. 理解的主体偷换",
+            "119A：模型不理解→人类看不懂输出",
+            "谁不理解什么，是否绝对不可能"
+          ],
+          [
+            "15. 规范主张变成全面预测",
+            "118C：支持特定立法→全球统一监管",
+            "具体规则与全面监管、倡议与预测不同"
+          ],
+          [
+            "16. 删条件、丢转折",
+            "原文so long as；第三篇自愿与自主权",
+            "保留条件，不能有限支持变成无条件支持"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "9. 同义替换：记意思对应，也记概括层级",
+      "paragraphs": [
+        "同义替换可以跨词性或概括层级，不一定是字典上的完全同义词。判断时看该语境是否保留原句意思。前半为原文，后半为本卷正确或最佳选项。"
+      ],
+      "table": {
+        "headers": [
+          "原文表达",
+          "选项／题干表达",
+          "对应说明"
+        ],
+        "rows": [
+          [
+            "amount of the product",
+            "quantity of a product（102B）",
+            "产品数量"
+          ],
+          [
+            "guarantees on the product",
+            "warranties that cover a product（102D）",
+            "产品保证或保修"
+          ],
+          [
+            "complex network／complicated system",
+            "complexities（105B）",
+            "形容词变名词概括"
+          ],
+          [
+            "make the economy more efficient",
+            "bring more efficiency（106D）",
+            "efficient变efficiency"
+          ],
+          [
+            "vulnerable to cyber-attacks",
+            "susceptible to network attacks（107A）",
+            "易受网络攻击"
+          ],
+          [
+            "buy governments time",
+            "give governments time（109B）",
+            "争取时间"
+          ],
+          [
+            "benefits＋worries＋remedies",
+            "pros and cons＋tackle problems（110B）",
+            "按篇章功能概括"
+          ],
+          [
+            "relentless pressure",
+            "constant pressure（111A）",
+            "持续压力"
+          ],
+          [
+            "exponents",
+            "supporters（112题干）",
+            "支持者"
+          ],
+          [
+            "bullying and sexual harassment",
+            "aggressive behavior（112D）",
+            "具体行为概括为上位类别"
+          ],
+          [
+            "produce unexpected results",
+            "yield something unexpected（113B）",
+            "produce与yield均表产生"
+          ],
+          [
+            "how initiatives are communicated",
+            "how bosses make known their purpose（114D）",
+            "沟通与目的透明"
+          ],
+          [
+            "erosion of civil liberties",
+            "infringe upon entitled freedom（115C）",
+            "自由权利受侵害"
+          ],
+          [
+            "social limitations＋checks＋regulations",
+            "social control on AI（116A）",
+            "具体安排汇总为社会约束"
+          ],
+          [
+            "not socially acceptable＋little accountability",
+            "socially irresponsible（117B）",
+            "社会责任不足"
+          ],
+          [
+            "ban impersonation of humans by machines",
+            "ban machines from pretending to be humans（118A）",
+            "名词结构换动词结构"
+          ],
+          [
+            "much more than an algorithm",
+            "can hardly be translated into an algorithm（120C）",
+            "难以完全算法化的方向"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "9.1 不要把“近似”误当“等价”",
+      "table": {
+        "headers": [
+          "容易混淆的一组",
+          "必须保留的差别"
+        ],
+        "rows": [
+          [
+            "a range of／all",
+            "多家或多种，不是所有"
+          ],
+          [
+            "many／universally",
+            "许多人，不是普遍一致"
+          ],
+          [
+            "about to／already",
+            "即将，不是已经"
+          ],
+          [
+            "more／maximal",
+            "更多，不是最大限度"
+          ],
+          [
+            "quick market entry／quality products",
+            "上市速度，不是产品质量"
+          ],
+          [
+            "dehumanizing effect／universally deemed anti-human",
+            "非人性化影响，不是人人一致认定反人性"
+          ],
+          [
+            "keep closer tabs on／eradicate",
+            "加强监控，不是根除；tackle可仅指应对"
+          ],
+          [
+            "superficially pass／truly fool with shared understanding",
+            "表面表现，不是满足真正理解要求"
+          ],
+          [
+            "machine cannot comprehend output／people cannot comprehend its language",
+            "不理解的主体不同"
+          ],
+          [
+            "back a specific global ban／predict uniform global regulation",
+            "特定规范倡议，不是全面监管预测"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "10. 四篇结构精读：转折、让步与举例怎样串联",
+      "paragraphs": [
+        "第一篇的关键转折未必是but。第二段This definition ... valid as far as it goes先认可日常定义，再以第三段For a complete understanding补足。读到as far as it goes，应预期“定义虽对，但只到这一层”。全文是概念递进，而非批评价格制度。",
+        "第二篇首段more efficient—but ... new problems是总纲；第二段收益，第三段Yet切入风险，第四段These problems have three remedies切入对策；First、Second、Last并列三项，不是先后互相取代的政策。a range、most、some、so long as、gradual限制作者主张。",
+        "第三篇But、While、As long as、if、Although密集出现，是有条件的利弊评估。While承认侵扰感后引出支持理由；As long as限制便利用途；if描述压缩休息与剥夺自主的风险；Although承认匿名和自愿后仍强调怀疑。末段明确指出实施方式决定结果。",
+        "第四篇先列两种approaches，再用The former锁定工程方法；AI“succeeding”的引号提示价值标准有问题。Yet转入人类知识与表面测试的差距；Some argue先让步，But后的human intelligence is much more than an algorithm才是该段主张。最后连问体现审慎与利益一致性的忧虑。",
+        "看到公共议题文章，就准备区分多方立场；看到例子，就找上位论点；看到让步，就等转折后强调的内容。不要把某个科技名词或政策词当成可以凭专业常识自动补完的空白。"
+      ]
+    },
+    {
+      "title": "11. 八个长难句：先抓主干，再恢复修饰与逻辑",
+      "paragraphs": [
+        "句1｜The price system ... is a very complex network composed of the prices of all the products ... as well as those of a myriad of services. 主干：价格体系是复杂网络。composed of说明组成；products后的bought and sold省略which are；those代指prices，避免重复，不能误解为products。整句是“全部产品价格＋大量服务价格”构成网络。",
+        "句2｜Both the buyer and the seller should be familiar with not only the money amount, but with the amount and quality ... the time and place ... and the credit terms .... 主干：买卖双方应熟悉若干内容。not only ... but ...组织清单；to be exchanged后置修饰产品服务；at which修饰时间地点。先记“双方了解的不止金额”，再按货物、交易安排、金融条款、保障分组。",
+        "句3｜Yet set against these benefits are a bundle of worries. 这是成分前置的倒装；把置前成分移回，意群就是“一系列担忧与这些收益相对”。主语意群是a bundle of worries，核心在收益之外还有担忧，而不是担忧被消除了。原卷are与a bundle的形式搭配不够严整，不宜据其背诵主谓一致规则。",
+        "句4｜Competition should ... mean that if one firm stumbles others can step in, making the system resilient. 主干：竞争还应意味着一种替补能力。that后宾语从句内，if为条件，others can step in为结果；making ...补充结果。逻辑是企业出问题→其他企业补位→系统更有韧性。",
+        "句5｜... a fact that would probably have gone undetected without such data analysis. a fact概括前面整个发现，that引导定语从句；without提供隐含条件，would have gone是对过去的反事实推想：若无这种分析，该发现很可能不会被察觉。不能译成数据分析已经漏掉该事实。",
+        "句6｜Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain skeptical and fear an erosion of their civil liberties. Although连接让步，内部并列匿名数据、参与自愿两个事实。主句是仍怀疑并担心自由受侵蚀。匿名和自愿没有消除担忧，although不是because。",
+        "句7｜It so troubled one ... researcher that no one knew how such language is being made that he left to set up an AI safety lab. 结构拥挤，可按“[It形式主语] so troubled [一位研究员] [that no one knew ...实际内容] [that he left ...结果]”理解。使他不安的事情是无人知道语言如何生成，so ... that引出离职结果。不是GPT-3的英文无人读懂。",
+        "句8｜Humans are stumbling into an era when the more powerful the AI system, the harder it is to explain its actions. 主干：人类正跌跌撞撞进入一个时代。when修饰era；the more ... the harder ...是越……越……结构，前半省略is。作者当时强调能力增长与解释难度的张力，不是本解析对2026年所有AI系统的实证判断。"
+      ]
+    },
+    {
+      "title": "12. 迁移练习（自编，依据本卷句意；先做题再看答案）",
+      "paragraphs": [
+        "以下不是原卷新增题，也不是官方预测题。句子均取自或改写自本卷核心关系，用来练范围、主体、条件与例证层级。单选练习只有一项最佳；判断练习回答“支持／不支持”并指出改变处。"
+      ],
+      "items": [
+        "练习1｜原文：the payments plumbing is open to a range of digital firms。最佳改写：A. Open to every digital firm without any restriction. B. Accessible to multiple digital firms. C. Controlled exclusively by credit-card firms. D. Closed to private firms.",
+        "练习2｜原文：the revolution is about to turn cash into an endangered species in some rich economies。判断：Cash has already disappeared from all rich economies. 是否受原文支持？至少指出三个改动。",
+        "练习3｜原文：Many oppose workplace surveillance ... the relentless pressure it brings。最佳改写：A. All people view surveillance as physically harmful. B. Many people object because it creates sustained pressure. C. Few people oppose any form of monitoring. D. Pressure is the sole concern of all workers.",
+        "练习4｜原文：Prof. Russell argues ... for regulations to deal with systemic biases。判断：Russell says machines are especially good at removing social biases. 写出原句与改写各自的动作主体。",
+        "练习5｜原文：Some of this data analysis can produce unexpected results. For example, people at 12-person tables ...。例子作用：A. To establish that larger tables always improve performance. B. To illustrate that analysis can reveal unexpected patterns. C. To decide the only acceptable lunch-table size. D. To prove monitoring cannot harm employees.",
+        "练习6｜某文依次写数字支付收益、风险、竞争／隐私／过渡三项对策。最佳主旨：A. Banks alone determine the future of payments. B. Digital payment brings benefits and problems that require remedies. C. The main issue is the design of credit cards. D. Cash should be abolished immediately.",
+        "练习7｜原文：Both buyer and seller should know all the factors ... in order that they may evaluate a given price。they指：A. the factors B. the price C. buyer and seller D. the money。",
+        "练习8｜原文：Digital firms ... should be free to monetize transaction data ... so long as their business model is made explicit to users。判断：The author allows firms to monetize data without explaining their model. 改动了什么逻辑条件？",
+        "练习9｜原文：Many staffers ... fear an erosion of their civil liberties。作者末段另说不当监控可能counterproductive。若题干问员工担忧，应优先用哪句？A. civil liberties句 B. counterproductive句。说明原因。",
+        "练习10｜原文：AI is deployed to get products quickly to market and problems dealt with later。判断：This approach ensures rapid delivery of high-quality products. 找出有据部分和新增部分。",
+        "练习11｜原文：GPT-3 ... cannot comprehend what it spews。最佳理解：A. No human can read its sentences. B. The model does not understand the content it outputs. C. Its code must be written from misconceptions. D. It has already acquired shared human understanding.",
+        "练习12｜原文先说人类智能远不止算法、灵感未必是先前步骤的逻辑后果，随后举相对论多年后验证。若问举例目的，“所有伟大思想都必然超前”错在哪里？至少说两点。",
+        "练习13｜原文：governments can keep closer tabs on fraud。判断“Digitalization can help governments tackle fraud”一定等于“Digitalization eradicates fraud”吗？说明tackle与eradicate的差别。",
+        "练习14｜文章尾句说要评价价格，应了解整体交易组合中的各因素。下段最可能写：A. 各交易要素如何影响价格 B. 作者童年的购物经历 C. 无关的运输史 D. 社会阶层的全部理论。写出尾句与答案的关键词连接。",
+        "练习15｜用一句中文概括第三篇作者立场，必须包含“可能有益”“实施方式”“不当时的风险”，不得使用“必然”“所有员工”等无依据绝对词。"
+      ]
+    },
+    {
+      "title": "13. 练习答案与证据说明",
+      "items": [
+        "1. B。multiple对应a range of的多家；A增加every和without any restriction；C、D改变开放方向。多家不等于所有。",
+        "2. 不支持。about to改already，endangered改disappeared，some改all；并把现金衰退趋势说成完全消失。",
+        "3. B。many保留范围，sustained对应relentless。A、D增加all；A还新增身体伤害，D新增sole；C反向把many变few。",
+        "4. 不支持。原句主体是regulations，作用是deal with biases；改写主体是machines，且添加especially good的能力评价。",
+        "5. B。它是例子前的观点。A从12人与4人的观察推到always；C添加only；D把一项收益推成绝不会有害。",
+        "6. B。覆盖收益、问题、对策。A、C是局部或新增主题；D违背渐进退出。",
+        "7. C。买卖双方能执行evaluate，数与语义均吻合。factors虽近，却不是评价主体。",
+        "8. 不支持。so long as要求明示商业模式，without explaining删除并反转条件。",
+        "9. A。题干要求员工担忧，必须匹配staffers→fear→civil liberties。作者的条件性总结不能替代这个归属。",
+        "10. 快速上市有据；确保、高质量均非原文结论。问题留待以后处理，也不能推出质量保障。",
+        "11. B。原文是模型不理解输出；A把主体换成人类，C由输出问题倒推编程，D与该段论证相反。",
+        "12. 第一，停留在时间细节，没有回到人类智能不只算法的论点；第二，把个例扩大成所有伟大思想的必然规律；第三，忽略该例说明灵感难从既有步骤直接推出。",
+        "13. 不等于。tackle可表示着手处理、应对，不保证完全解决；eradicate是根除。closer tabs可支持加强监控，也为帮助应对提供一定依据，不能推出根除。第106题因此应承认B的部分支持，同时选直接对应效率句的D。",
+        "14. A。evaluate a price与factors／package，连接到要素如何影响价格；既承接主题，又展开机制。",
+        "15. 参考：工作场所监控可能帮助员工和企业，但收益取决于自愿、透明、尊重自主的实施方式，实施不当可能侵蚀自由并适得其反。保留这三层意思的其他表述亦可。"
+      ]
+    },
+    {
+      "title": "14. 结合你的答卷，怎样安排复盘",
+      "paragraphs": [
+        "先把真错题与争议题分开。按当前原文，第119题D更合理，应放入答案复核而非能力缺口；第106题你选D，做对了，但可用来练选项竞争与词义边界。其余错题按机制整理，比按题号背答案有效。",
+        "第一组是范围与主体：108B、111B、112B、114B、115D、118B。强制写出“谁→说／做／担心→什么”，再标量词和条件。这里的错误归因是依选项结构提出的可能原因，不代表能确定你真实的思考过程。",
+        "第二组是覆盖与局部诱惑：101B、110C。先写每段功能，再说原选项漏掉什么对象或板块。不要只划掉错项，要写“只说服务例子，遗漏产品”“只说治理主体，遗漏利弊”。",
+        "第三组是例证层级：120D。把原文分成论点、说明、例子、结论，指出多年后验证只位于例子层，不能直接当成论点，更不能推成always。",
+        "你已经做对102、103、104、105、106、107、109、113、116、117题，定位、指代、部分主旨与例证题已有基础。接下来的重点是稳定执行完整核对。"
+      ],
+      "items": [
+        "第1次：不计时，逐题写证据句和最强干扰项改动，优先处理九道文本意义上的错题。",
+        "第2次：隔一两天遮住答案重新选择并写一句理由；只记住字母而说不出证据，视为尚未掌握。",
+        "第3次：完成15道迁移练习，再用相似题材新文练段落功能，避免只在旧题上熟练。",
+        "词汇：先记240条的本篇义与搭配，再每篇挑五组同义改写回原句。主题词与as far as it goes、buy time、refrain from等整体表达兼顾。",
+        "错题本五栏：原选择／文本推荐／证据句／改动机制／下次检查动作。第119题另标“回忆版答案争议”。"
+      ]
+    },
+    {
+      "title": "15. 训练与作答复核清单",
+      "items": [
+        "题干：是否看清NOT、best、primarily、according to谁或哪段？",
+        "定位：证据是否完整意思，而不只是相同的词？",
+        "主体：作者、支持者、反对者、员工、政府、机器是否被换了？",
+        "对象：产品还是服务、现金还是数字货币、自由还是环境？",
+        "范围：some、many、a range of、most是否变成all、universally？",
+        "时间：about to、will、already、currently、so far是否一致？",
+        "程度：more是否变maximal，quickly是否加quality，can是否变must？",
+        "逻辑：because、but、although、if、so long as、rather than是否保留原方向？",
+        "例证：选的是论点还是故事细节？有没有个例推always？",
+        "主旨：能否解释每段为何存在，是否遗漏收益、风险、对策？",
+        "指代：代回以后，数一致、动作可执行、语义通顺吗？",
+        "歧义：两项都有依据时，哪项更直接、附加含义更少？是否应承认题面瑕疵？",
+        "复盘：能否一句话说清正确项依据和最强干扰项改变处？",
+        "边界：科技或政策文中的历史判断只按文章语境解题，不自动当作当前事实。"
+      ]
+    }
+  ]
+}

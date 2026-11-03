@@ -1,0 +1,104 @@
+{
+  "source": "D:\\AI\\ChatGPT\\JJ\\output\\04_英语单词与常用搭配.docx",
+  "source_sha256": "a64a68741b49dc314b91edfde9f1f98fccf2a074a035779ff4c6b00b2b2eaad1",
+  "staged": "D:\\AI\\ChatGPT\\JJ\\work\\vocab_forms_revised.docx",
+  "paragraphs": 201,
+  "word_lines_updated": 17,
+  "changes": [
+    {
+      "index": 2,
+      "before": "词条均可在本卷文章、题干或选项中找到。为便于查记，单词以常见词形呈现，动词短语可能还原为原形，名词短语可能调整单复数；汉语义按本篇语境，不代表该词所有义项。",
+      "after": "单词先列原形或常用基础词，再在同一行列出原文中的 -ing、-ed 或相关形容词、副词形式，并分别给出汉语解释。已是原形的词直接保留；词汇搭配按完整表达呈现。"
+    },
+    {
+      "index": 3,
+      "before": "n.=名词；v.=动词；adj.=形容词；adv.=副词；prep.=介词。原卷拼写dechumanizing按规范dehumanizing收录。短语既包括固定搭配，也包括值得整体识别的常见组合及本卷关键表达。",
+      "after": "n.=名词；v.=动词；adj.=形容词；adv.=副词。-ing、-ed 表示词形，词性按本篇用法标注；-ing 形式也可作名词或定语。原文 dechumanizing 按规范 dehumanizing 收录。"
+    },
+    {
+      "index": 39,
+      "before": "creased  adj.  有折痕的；皱的",
+      "after": "crease  v. 起皱；使有折痕；creased（-ed / adj.）有折痕的"
+    },
+    {
+      "index": 40,
+      "before": "clinking  adj.  叮当作响的",
+      "after": "clink  v. 叮当作响；clinking（-ing，作定语）叮当作响的"
+    },
+    {
+      "index": 41,
+      "before": "endangered  adj.  濒危的",
+      "after": "endanger  v. 危及；endangered（-ed / adj.）濒危的"
+    },
+    {
+      "index": 56,
+      "before": "plumbing  n.  基础管道；本篇喻支付基础设施",
+      "after": "plumb  v. 装设水管；plumbing（n.）管道系统；本篇指支付基础设施"
+    },
+    {
+      "index": 84,
+      "before": "dehumanizing  adj.  非人性化的；使人失去人性化对待的（规范拼写）",
+      "after": "dehumanize  v. 使失去人性；dehumanizing（-ing / adj.）非人性化的"
+    },
+    {
+      "index": 94,
+      "before": "intrusive  adj.  侵扰的；侵犯私人空间的",
+      "after": "intrude  v. 侵扰；intrusive（adj.）侵扰的；侵犯私人空间的"
+    },
+    {
+      "index": 96,
+      "before": "bullying  n.  欺凌",
+      "after": "bully  v. 欺凌；bullying（-ing / n.）欺凌"
+    },
+    {
+      "index": 99,
+      "before": "undetected  adj.  未被发现的",
+      "after": "detect  v. 发现；undetected（adj.）未被发现的"
+    },
+    {
+      "index": 109,
+      "before": "anonymised  adj.  经匿名化处理的",
+      "after": "anonymise  v. 使匿名化；anonymised（-ed / adj.）经匿名化处理的"
+    },
+    {
+      "index": 116,
+      "before": "universally  adv.  普遍地；一致地（选项）",
+      "after": "universal  adj. 普遍的；universally（adv.）普遍地；一致地（选项）"
+    },
+    {
+      "index": 117,
+      "before": "entitled  adj.  依法或理应享有某种权利的（选项）",
+      "after": "entitle  v. 使享有权利；entitled（adj.）有权享有的（选项）"
+    },
+    {
+      "index": 147,
+      "before": "emerging  adj.  新出现的",
+      "after": "emerge  v. 出现；emerging（-ing / adj.）新出现的"
+    },
+    {
+      "index": 148,
+      "before": "philosophical  adj.  哲学的",
+      "after": "philosophy  n. 哲学；philosophical（adj.）哲学的"
+    },
+    {
+      "index": 151,
+      "before": "systemic  adj.  系统性的；结构性的",
+      "after": "system  n. 系统；systemic（adj.）系统性的；结构性的"
+    },
+    {
+      "index": 166,
+      "before": "preceding  adj.  在前的；先前的",
+      "after": "precede  v. 在……之前；preceding（-ing / adj.）先前的"
+    },
+    {
+      "index": 172,
+      "before": "uniformly  adv.  统一地；一致地（选项）",
+      "after": "uniform  adj. 统一的；uniformly（adv.）统一地；一致地（选项）"
+    },
+    {
+      "index": 173,
+      "before": "complementary  adj.  互补的（选项）",
+      "after": "complement  v. 补充；complementary（adj.）互补的（选项）"
+    }
+  ]
+}

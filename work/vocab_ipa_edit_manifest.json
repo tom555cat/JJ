@@ -1,0 +1,986 @@
+{
+  "source": "D:\\AI\\ChatGPT\\JJ\\output\\04_英语单词与常用搭配.docx",
+  "source_sha256": "011ba21abc54c8853b6b6940038e6c4a786e29af6d64dbc9b934b8a0d6458417",
+  "staged": "D:\\AI\\ChatGPT\\JJ\\work\\vocab_ipa_revised.docx",
+  "word_lines": 97,
+  "pronunciation_entries": 114,
+  "changes": [
+    {
+      "index": 7,
+      "before": "ration  v.  按一定规则分配、限量供应",
+      "after": "ration /ˈræʃən/  v.  按一定规则分配、限量供应"
+    },
+    {
+      "index": 8,
+      "before": "myriad  n./adj.  大量；无数的",
+      "after": "myriad /ˈmɪriəd/  n./adj.  大量；无数的"
+    },
+    {
+      "index": 9,
+      "before": "labor  n.  劳动；劳务",
+      "after": "labor /ˈleɪbə/  n.  劳动；劳务"
+    },
+    {
+      "index": 10,
+      "before": "utility  n.  公用事业",
+      "after": "utility /juːˈtɪləti/  n.  公用事业"
+    },
+    {
+      "index": 11,
+      "before": "particular  adj.  某一特定的",
+      "after": "particular /pəˈtɪkjələ/  adj.  某一特定的"
+    },
+    {
+      "index": 12,
+      "before": "quantity  n.  数量",
+      "after": "quantity /ˈkwɒntəti/  n.  数量"
+    },
+    {
+      "index": 13,
+      "before": "delivery  n.  交付；交货",
+      "after": "delivery /dɪˈlɪvəri/  n.  交付；交货"
+    },
+    {
+      "index": 14,
+      "before": "privilege  n.  权利；特权",
+      "after": "privilege /ˈprɪvəlɪdʒ/  n.  权利；特权"
+    },
+    {
+      "index": 15,
+      "before": "warranty  n.  保修；担保",
+      "after": "warranty /ˈwɒrənti/  n.  保修；担保"
+    },
+    {
+      "index": 16,
+      "before": "inherent  adj.  内在的；固有的（选项）",
+      "after": "inherent /ɪnˈherənt/  adj.  内在的；固有的（选项）"
+    },
+    {
+      "index": 17,
+      "before": "allocation  n.  配置；分配（选项）",
+      "after": "allocation /ˌæləˈkeɪʃən/  n.  配置；分配（选项）"
+    },
+    {
+      "index": 39,
+      "before": "crease  v. 起皱；使有折痕；creased（-ed / adj.）有折痕的",
+      "after": "crease /kriːs/  v. 起皱；使有折痕；creased /kriːst/（-ed / adj.）有折痕的"
+    },
+    {
+      "index": 40,
+      "before": "clink  v. 叮当作响；clinking（-ing，作定语）叮当作响的",
+      "after": "clink /klɪŋk/  v. 叮当作响；clinking /ˈklɪŋkɪŋ/（-ing，作定语）叮当作响的"
+    },
+    {
+      "index": 41,
+      "before": "endanger  v. 危及；endangered（-ed / adj.）濒危的",
+      "after": "endanger /ɪnˈdeɪndʒə/  v. 危及；endangered /ɪnˈdeɪndʒəd/（-ed / adj.）濒危的"
+    },
+    {
+      "index": 42,
+      "before": "prospect  n.  前景",
+      "after": "prospect /ˈprɒspekt/  n.  前景"
+    },
+    {
+      "index": 43,
+      "before": "mint  v.  铸造硬币",
+      "after": "mint /mɪnt/  v.  铸造硬币"
+    },
+    {
+      "index": 44,
+      "before": "dematerialize  v.  去物质化；不再依靠有形现金",
+      "after": "dematerialize /ˌdiːməˈtɪəriəlaɪz/  v.  去物质化；不再依靠有形现金"
+    },
+    {
+      "index": 45,
+      "before": "theft  n.  盗窃",
+      "after": "theft /θeft/  n.  盗窃"
+    },
+    {
+      "index": 46,
+      "before": "fraud  n.  欺诈",
+      "after": "fraud /frɔːd/  n.  欺诈"
+    },
+    {
+      "index": 47,
+      "before": "evasion  n.  逃避；规避",
+      "after": "evasion /ɪˈveɪʒən/  n.  逃避；规避"
+    },
+    {
+      "index": 48,
+      "before": "blackout  n.  停电",
+      "after": "blackout /ˈblækaʊt/  n.  停电"
+    },
+    {
+      "index": 49,
+      "before": "eradicate  v.  彻底消除",
+      "after": "eradicate /ɪˈrædɪkeɪt/  v.  彻底消除"
+    },
+    {
+      "index": 50,
+      "before": "snoop  v.  窥探；刺探",
+      "after": "snoop /snuːp/  v.  窥探；刺探"
+    },
+    {
+      "index": 51,
+      "before": "entity  n.  实体；机构",
+      "after": "entity /ˈentɪti/  n.  实体；机构"
+    },
+    {
+      "index": 52,
+      "before": "exploit  v.  利用；开发；此处指利用个人数据",
+      "after": "exploit /ɪkˈsplɔɪt/  v.  利用；开发；此处指利用个人数据"
+    },
+    {
+      "index": 53,
+      "before": "remedy  n.  解决办法",
+      "after": "remedy /ˈremədi/  n.  解决办法"
+    },
+    {
+      "index": 54,
+      "before": "monopoly  n.  垄断",
+      "after": "monopoly /məˈnɒpəli/  n.  垄断"
+    },
+    {
+      "index": 55,
+      "before": "stranglehold  n.  钳制；强力控制",
+      "after": "stranglehold /ˈstræŋɡəlhəʊld/  n.  钳制；强力控制"
+    },
+    {
+      "index": 56,
+      "before": "plumb  v. 装设水管；plumbing（n.）管道系统；本篇指支付基础设施",
+      "after": "plumb /plʌm/  v. 装设水管；plumbing /ˈplʌmɪŋ/（n.）管道系统；本篇指支付基础设施"
+    },
+    {
+      "index": 57,
+      "before": "resilient  adj.  有韧性的；能恢复的",
+      "after": "resilient /rɪˈzɪliənt/  adj.  有韧性的；能恢复的"
+    },
+    {
+      "index": 58,
+      "before": "monetize  v.  使货币化；变现",
+      "after": "monetize /ˈmʌnɪtaɪz/  v.  使货币化；变现"
+    },
+    {
+      "index": 59,
+      "before": "spontaneous  adj.  自发的",
+      "after": "spontaneous /spɒnˈteɪniəs/  adj.  自发的"
+    },
+    {
+      "index": 60,
+      "before": "susceptible  adj.  易受……影响的（选项）",
+      "after": "susceptible /səˈseptəbəl/  adj.  易受……影响的（选项）"
+    },
+    {
+      "index": 83,
+      "before": "surveillance  n.  监控；监视",
+      "after": "surveillance /səˈveɪləns/  n.  监控；监视"
+    },
+    {
+      "index": 84,
+      "before": "dehumanize  v. 使失去人性；dehumanizing（-ing / adj.）非人性化的",
+      "after": "dehumanize /ˌdiːˈhjuːmənaɪz/  v. 使失去人性；dehumanizing /ˌdiːˈhjuːmənaɪzɪŋ/（-ing / adj.）非人性化的"
+    },
+    {
+      "index": 85,
+      "before": "relentless  adj.  持续不断的；不减弱的",
+      "after": "relentless /rɪˈlentləs/  adj.  持续不断的；不减弱的"
+    },
+    {
+      "index": 86,
+      "before": "productivity  n.  生产力；工作效率",
+      "after": "productivity /ˌprɒdʌkˈtɪvəti/  n.  生产力；工作效率"
+    },
+    {
+      "index": 87,
+      "before": "revenue  n.  收入；营业收入",
+      "after": "revenue /ˈrevənjuː/  n.  收入；营业收入"
+    },
+    {
+      "index": 88,
+      "before": "assess  v.  评估",
+      "after": "assess /əˈses/  v.  评估"
+    },
+    {
+      "index": 89,
+      "before": "interact  v.  互动；交流",
+      "after": "interact /ˌɪntəˈrækt/  v.  互动；交流"
+    },
+    {
+      "index": 90,
+      "before": "analytics  n.  数据分析",
+      "after": "analytics /ˌænəˈlɪtɪks/  n.  数据分析"
+    },
+    {
+      "index": 91,
+      "before": "exhaust  n.  废气；本篇喻数字行为的残留痕迹",
+      "after": "exhaust /ɪɡˈzɔːst/  n.  废气；本篇喻数字行为的残留痕迹"
+    },
+    {
+      "index": 92,
+      "before": "badge  n.  姓名牌；证章",
+      "after": "badge /bædʒ/  n.  姓名牌；证章"
+    },
+    {
+      "index": 93,
+      "before": "identification  n.  识别；选项中也指认同",
+      "after": "identification /aɪˌdentɪfɪˈkeɪʃən/  n.  识别；选项中也指认同"
+    },
+    {
+      "index": 94,
+      "before": "intrude  v. 侵扰；intrusive（adj.）侵扰的；侵犯私人空间的",
+      "after": "intrude /ɪnˈtruːd/  v. 侵扰；intrusive /ɪnˈtruːsɪv/（adj.）侵扰的；侵犯私人空间的"
+    },
+    {
+      "index": 95,
+      "before": "exponent  n.  倡导者；支持者",
+      "after": "exponent /ɪkˈspəʊnənt/  n.  倡导者；支持者"
+    },
+    {
+      "index": 96,
+      "before": "bully  v. 欺凌；bullying（-ing / n.）欺凌",
+      "after": "bully /ˈbʊli/  v. 欺凌；bullying /ˈbʊliɪŋ/（-ing / n.）欺凌"
+    },
+    {
+      "index": 97,
+      "before": "harassment  n.  骚扰",
+      "after": "harassment /ˈhærəsmənt/  n.  骚扰"
+    },
+    {
+      "index": 98,
+      "before": "outperform  v.  表现优于",
+      "after": "outperform /ˌaʊtpəˈfɔːm/  v.  表现优于"
+    },
+    {
+      "index": 99,
+      "before": "detect  v. 发现；undetected（adj.）未被发现的",
+      "after": "detect /dɪˈtekt/  v. 发现；undetected /ˌʌndɪˈtektɪd/（adj.）未被发现的"
+    },
+    {
+      "index": 100,
+      "before": "implant  n./v.  植入物；植入",
+      "after": "implant  n. /ˈɪmplɑːnt/ 植入物；v. /ɪmˈplɑːnt/ 植入"
+    },
+    {
+      "index": 101,
+      "before": "correlate  v.  相关联",
+      "after": "correlate /ˈkɒrəleɪt/  v.  相关联"
+    },
+    {
+      "index": 102,
+      "before": "biometrics  n.  生物识别技术",
+      "after": "biometrics /ˌbaɪəʊˈmetrɪks/  n.  生物识别技术"
+    },
+    {
+      "index": 103,
+      "before": "voluntary  adj.  自愿的",
+      "after": "voluntary /ˈvɒləntəri/  adj.  自愿的"
+    },
+    {
+      "index": 104,
+      "before": "substantial  adj.  相当多的；大量的",
+      "after": "substantial /səbˈstænʃəl/  adj.  相当多的；大量的"
+    },
+    {
+      "index": 105,
+      "before": "detrimental  adj.  有害的；不利的",
+      "after": "detrimental /ˌdetrɪˈmentəl/  adj.  有害的；不利的"
+    },
+    {
+      "index": 106,
+      "before": "autonomy  n.  自主权",
+      "after": "autonomy /ɔːˈtɒnəmi/  n.  自主权"
+    },
+    {
+      "index": 107,
+      "before": "initiative  n.  举措；倡议",
+      "after": "initiative /ɪˈnɪʃətɪv/  n.  举措；倡议"
+    },
+    {
+      "index": 108,
+      "before": "revolt  n.  反抗；反叛",
+      "after": "revolt /rɪˈvəʊlt/  n.  反抗；反叛"
+    },
+    {
+      "index": 109,
+      "before": "anonymise  v. 使匿名化；anonymised（-ed / adj.）经匿名化处理的",
+      "after": "anonymise /əˈnɒnɪmaɪz/  v. 使匿名化；anonymised /əˈnɒnɪmaɪzd/（-ed / adj.）经匿名化处理的"
+    },
+    {
+      "index": 110,
+      "before": "skeptical  adj.  怀疑的",
+      "after": "skeptical /ˈskeptɪkəl/  adj.  怀疑的"
+    },
+    {
+      "index": 111,
+      "before": "erosion  n.  侵蚀；逐步削弱",
+      "after": "erosion /ɪˈrəʊʒən/  n.  侵蚀；逐步削弱"
+    },
+    {
+      "index": 112,
+      "before": "liberty  n.  自由；自由权利",
+      "after": "liberty /ˈlɪbəti/  n.  自由；自由权利"
+    },
+    {
+      "index": 113,
+      "before": "empower  v.  赋权；使更有自主能力",
+      "after": "empower /ɪmˈpaʊə/  v.  赋权；使更有自主能力"
+    },
+    {
+      "index": 114,
+      "before": "oppression  n.  压迫",
+      "after": "oppression /əˈpreʃən/  n.  压迫"
+    },
+    {
+      "index": 115,
+      "before": "counterproductive  adj.  适得其反的",
+      "after": "counterproductive /ˌkaʊntəprəˈdʌktɪv/  adj.  适得其反的"
+    },
+    {
+      "index": 116,
+      "before": "universal  adj. 普遍的；universally（adv.）普遍地；一致地（选项）",
+      "after": "universal /ˌjuːnɪˈvɜːsəl/  adj. 普遍的；universally /ˌjuːnɪˈvɜːsəli/（adv.）普遍地；一致地（选项）"
+    },
+    {
+      "index": 117,
+      "before": "entitle  v. 使享有权利；entitled（adj.）有权享有的（选项）",
+      "after": "entitle /ɪnˈtaɪtəl/  v. 使享有权利；entitled /ɪnˈtaɪtəld/（adj.）有权享有的（选项）"
+    },
+    {
+      "index": 146,
+      "before": "enterprise  n.  事业；活动；此处不是公司",
+      "after": "enterprise /ˈentəpraɪz/  n.  事业；活动；此处不是公司"
+    },
+    {
+      "index": 147,
+      "before": "emerge  v. 出现；emerging（-ing / adj.）新出现的",
+      "after": "emerge /ɪˈmɜːdʒ/  v. 出现；emerging /ɪˈmɜːdʒɪŋ/（-ing / adj.）新出现的"
+    },
+    {
+      "index": 148,
+      "before": "philosophy  n. 哲学；philosophical（adj.）哲学的",
+      "after": "philosophy /fɪˈlɒsəfi/  n. 哲学；philosophical /ˌfɪləˈsɒfɪkəl/（adj.）哲学的"
+    },
+    {
+      "index": 149,
+      "before": "accountability  n.  责任；问责；承担责任",
+      "after": "accountability /əˌkaʊntəˈbɪləti/  n.  责任；问责；承担责任"
+    },
+    {
+      "index": 150,
+      "before": "radicalize  v.  使激进化",
+      "after": "radicalize /ˈrædɪkəlaɪz/  v.  使激进化"
+    },
+    {
+      "index": 151,
+      "before": "system  n. 系统；systemic（adj.）系统性的；结构性的",
+      "after": "system /ˈsɪstəm/  n. 系统；systemic /sɪˈstemɪk/（adj.）系统性的；结构性的"
+    },
+    {
+      "index": 152,
+      "before": "bias  n.  偏见；偏差",
+      "after": "bias /ˈbaɪəs/  n.  偏见；偏差"
+    },
+    {
+      "index": 153,
+      "before": "legislation  n.  立法；法律法规",
+      "after": "legislation /ˌledʒɪˈsleɪʃən/  n.  立法；法律法规"
+    },
+    {
+      "index": 154,
+      "before": "impersonation  n.  冒充；假扮",
+      "after": "impersonation /ɪmˌpɜːsənˈeɪʃən/  n.  冒充；假扮"
+    },
+    {
+      "index": 155,
+      "before": "superficial  adj.  表面的；肤浅的",
+      "after": "superficial /ˌsuːpəˈfɪʃəl/  adj.  表面的；肤浅的"
+    },
+    {
+      "index": 156,
+      "before": "collective  adj.  集体的；共同的",
+      "after": "collective /kəˈlektɪv/  adj.  集体的；共同的"
+    },
+    {
+      "index": 157,
+      "before": "grasp  v.  理解；领会",
+      "after": "grasp /ɡrɑːsp/  v.  理解；领会"
+    },
+    {
+      "index": 158,
+      "before": "comprehend  v.  理解",
+      "after": "comprehend /ˌkɒmprɪˈhend/  v.  理解"
+    },
+    {
+      "index": 159,
+      "before": "spew  v.  大量吐出；本篇贬指生成输出",
+      "after": "spew /spjuː/  v.  大量吐出；本篇贬指生成输出"
+    },
+    {
+      "index": 160,
+      "before": "mimic  v.  模仿",
+      "after": "mimic /ˈmɪmɪk/  v.  模仿"
+    },
+    {
+      "index": 161,
+      "before": "misconception  n.  错误认识；误解",
+      "after": "misconception /ˌmɪskənˈsepʃən/  n.  错误认识；误解"
+    },
+    {
+      "index": 162,
+      "before": "deceive  v.  欺骗",
+      "after": "deceive /dɪˈsiːv/  v.  欺骗"
+    },
+    {
+      "index": 163,
+      "before": "insight  n.  洞见；新见解",
+      "after": "insight /ˈɪnsaɪt/  n.  洞见；新见解"
+    },
+    {
+      "index": 164,
+      "before": "inspiration  n.  灵感",
+      "after": "inspiration /ˌɪnspɪˈreɪʃən/  n.  灵感"
+    },
+    {
+      "index": 165,
+      "before": "brilliant  adj.  出色的；卓越的",
+      "after": "brilliant /ˈbrɪljənt/  adj.  出色的；卓越的"
+    },
+    {
+      "index": 166,
+      "before": "precede  v. 在……之前；preceding（-ing / adj.）先前的",
+      "after": "precede /prɪˈsiːd/  v. 在……之前；preceding /prɪˈsiːdɪŋ/（-ing / adj.）先前的"
+    },
+    {
+      "index": 167,
+      "before": "derive  v.  推导；获得",
+      "after": "derive /dɪˈraɪv/  v.  推导；获得"
+    },
+    {
+      "index": 168,
+      "before": "observation  n.  观测；观察",
+      "after": "observation /ˌɒbzəˈveɪʃən/  n.  观测；观察"
+    },
+    {
+      "index": 169,
+      "before": "prompt  v.  提示；促使行动",
+      "after": "prompt /prɒmpt/  v.  提示；促使行动"
+    },
+    {
+      "index": 170,
+      "before": "stumble  v.  踉跄；跌跌撞撞",
+      "after": "stumble /ˈstʌmbəl/  v.  踉跄；跌跌撞撞"
+    },
+    {
+      "index": 171,
+      "before": "imminence  n.  即将发生；迫近（选项）",
+      "after": "imminence /ˈɪmɪnəns/  n.  即将发生；迫近（选项）"
+    },
+    {
+      "index": 172,
+      "before": "uniform  adj. 统一的；uniformly（adv.）统一地；一致地（选项）",
+      "after": "uniform /ˈjuːnɪfɔːm/  adj. 统一的；uniformly /ˈjuːnɪfɔːmli/（adv.）统一地；一致地（选项）"
+    },
+    {
+      "index": 173,
+      "before": "complement  v. 补充；complementary（adj.）互补的（选项）",
+      "after": "complement /ˈkɒmplɪment/  v. 补充；complementary /ˌkɒmplɪˈmentəri/（adj.）互补的（选项）"
+    },
+    {
+      "index": 174,
+      "before": "regulation  n.  监管规则；规章",
+      "after": "regulation /ˌreɡjəˈleɪʃən/  n.  监管规则；规章"
+    },
+    {
+      "index": 2,
+      "before": "单词先列原形或常用基础词，再在同一行列出原文中的 -ing、-ed 或相关形容词、副词形式，并分别给出汉语解释。已是原形的词直接保留；词汇搭配按完整表达呈现。",
+      "after": "单词先列原形、英式音标、词性与汉语义，再在同一词条中保留原文中的 -ing、-ed 或相关派生形式及其音标、释义。词汇搭配按完整表达呈现。"
+    },
+    {
+      "index": 3,
+      "before": "n.=名词；v.=动词；adj.=形容词；adv.=副词。-ing、-ed 表示词形，词性按本篇用法标注；-ing 形式也可作名词或定语。原文 dechumanizing 按规范 dehumanizing 收录。",
+      "after": "音标采用英式读音；ˈ 表示主重音，ˌ 表示次重音。n.=名词；v.=动词；adj.=形容词；adv.=副词。-ing、-ed 表示词形，词性按本篇用法标注。implant 的名词与动词重音不同，已分别列出。"
+    }
+  ],
+  "sources": {
+    "accountability": {
+      "ipa": "əˌkaʊntəˈbɪləti",
+      "url": "https://dictionary.cambridge.org/dictionary/english/accountability"
+    },
+    "allocation": {
+      "ipa": "ˌæləˈkeɪʃən",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/allocation"
+    },
+    "analytics": {
+      "ipa": "ˌænəˈlɪtɪks",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/analytics",
+      "note": "采用Oxford英式标注；与Cambridge英式音段相同，音节/重音边界标注位置略有差别。"
+    },
+    "anonymise": {
+      "ipa": "əˈnɒnɪmaɪz",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/anonymize",
+      "note": "词典明确标注British English also anonymise，拼写保留用户当前的-s-形式。"
+    },
+    "anonymised": {
+      "ipa": "əˈnɒnɪmaɪzd",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/anonymize",
+      "note": "Oxford Verb Forms列出anonymized的英式读音；-s-拼写同音，Collins另有anonymised词条核验。词尾/z/后-ed读/d/。"
+    },
+    "assess": {
+      "ipa": "əˈses",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/assess"
+    },
+    "autonomy": {
+      "ipa": "ɔːˈtɒnəmi",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/autonomy"
+    },
+    "badge": {
+      "ipa": "bædʒ",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/badge"
+    },
+    "bias": {
+      "ipa": "ˈbaɪəs",
+      "url": "https://dictionary.cambridge.org/dictionary/english/bias"
+    },
+    "biometrics": {
+      "ipa": "ˌbaɪəʊˈmetrɪks",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/biometrics"
+    },
+    "blackout": {
+      "ipa": "ˈblækaʊt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/blackout"
+    },
+    "brilliant": {
+      "ipa": "ˈbrɪljənt",
+      "url": "https://dictionary.cambridge.org/dictionary/english/brilliant"
+    },
+    "bully": {
+      "ipa": "ˈbʊli",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/bully"
+    },
+    "bullying": {
+      "ipa": "ˈbʊliɪŋ",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/bullying"
+    },
+    "clink": {
+      "ipa": "klɪŋk",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/clink"
+    },
+    "clinking": {
+      "ipa": "ˈklɪŋkɪŋ",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/clinking"
+    },
+    "collective": {
+      "ipa": "kəˈlektɪv",
+      "url": "https://dictionary.cambridge.org/dictionary/english/collective"
+    },
+    "complement": {
+      "ipa": "ˈkɒmplɪment",
+      "url": "https://dictionary.cambridge.org/dictionary/english/complement"
+    },
+    "complementary": {
+      "ipa": "ˌkɒmplɪˈmentəri",
+      "url": "https://dictionary.cambridge.org/dictionary/english/complementary"
+    },
+    "comprehend": {
+      "ipa": "ˌkɒmprɪˈhend",
+      "url": "https://dictionary.cambridge.org/dictionary/english/comprehend"
+    },
+    "correlate": {
+      "ipa": "ˈkɒrəleɪt",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/correlate_1",
+      "note": "当前行仅列动词，词尾读leɪt。名词为ˈkɒrələt，但本表未列该词性，不新增名词读音。"
+    },
+    "counterproductive": {
+      "ipa": "ˌkaʊntəprəˈdʌktɪv",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/counterproductive"
+    },
+    "crease": {
+      "ipa": "kriːs",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/crease"
+    },
+    "creased": {
+      "ipa": "kriːst",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/creased"
+    },
+    "deceive": {
+      "ipa": "dɪˈsiːv",
+      "url": "https://dictionary.cambridge.org/dictionary/english/deceive"
+    },
+    "dehumanize": {
+      "ipa": "ˌdiːˈhjuːmənaɪz",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/dehumanize"
+    },
+    "dehumanizing": {
+      "ipa": "ˌdiːˈhjuːmənaɪzɪŋ",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/dehumanize",
+      "note": "Oxford词条Verb Forms中直接列出-ing形式的英式音标。"
+    },
+    "delivery": {
+      "ipa": "dɪˈlɪvəri",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/delivery"
+    },
+    "dematerialize": {
+      "ipa": "ˌdiːməˈtɪəriəlaɪz",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/dematerialize"
+    },
+    "derive": {
+      "ipa": "dɪˈraɪv",
+      "url": "https://dictionary.cambridge.org/dictionary/english/derive"
+    },
+    "detect": {
+      "ipa": "dɪˈtekt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/detect"
+    },
+    "detrimental": {
+      "ipa": "ˌdetrɪˈmentəl",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/detrimental"
+    },
+    "emerge": {
+      "ipa": "ɪˈmɜːdʒ",
+      "url": "https://dictionary.cambridge.org/dictionary/english/emerge"
+    },
+    "emerging": {
+      "ipa": "ɪˈmɜːdʒɪŋ",
+      "url": "https://dictionary.cambridge.org/dictionary/english/emerging"
+    },
+    "empower": {
+      "ipa": "ɪmˈpaʊə(r)",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/empower",
+      "note": "(r)标记英式连接r，单词独读及辅音前通常不发r。"
+    },
+    "endanger": {
+      "ipa": "ɪnˈdeɪndʒə",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/endanger"
+    },
+    "endangered": {
+      "ipa": "ɪnˈdeɪndʒəd",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/endangered"
+    },
+    "enterprise": {
+      "ipa": "ˈentəpraɪz",
+      "url": "https://dictionary.cambridge.org/dictionary/english/enterprise"
+    },
+    "entitle": {
+      "ipa": "ɪnˈtaɪtəl",
+      "url": "https://dictionary.cambridge.org/dictionary/english/entitle"
+    },
+    "entitled": {
+      "ipa": "ɪnˈtaɪtəld",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/entitled"
+    },
+    "entity": {
+      "ipa": "ˈentɪti",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/entity"
+    },
+    "eradicate": {
+      "ipa": "ɪˈrædɪkeɪt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/eradicate"
+    },
+    "erosion": {
+      "ipa": "ɪˈrəʊʒən",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/erosion"
+    },
+    "evasion": {
+      "ipa": "ɪˈveɪʒən",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/evasion"
+    },
+    "exhaust": {
+      "ipa": "ɪɡˈzɔːst",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/exhaust",
+      "note": "此行是名词；同拼写动词英式读音相同。"
+    },
+    "exploit": {
+      "ipa": "ɪkˈsplɔɪt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/exploit",
+      "pos": "v.",
+      "variants": {
+        "v.": "ɪkˈsplɔɪt",
+        "n.": "ˈeksplɔɪt"
+      }
+    },
+    "exponent": {
+      "ipa": "ɪkˈspəʊnənt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/exponent"
+    },
+    "fraud": {
+      "ipa": "frɔːd",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/fraud"
+    },
+    "grasp": {
+      "ipa": "ɡrɑːsp",
+      "url": "https://dictionary.cambridge.org/dictionary/english/grasp"
+    },
+    "harassment": {
+      "ipa": "ˈhærəsmənt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/harassment",
+      "note": "采用Cambridge第一英式读音；该词典同时收录英式变体həˈræsmənt，无须在Word单行中并列。"
+    },
+    "identification": {
+      "ipa": "aɪˌdentɪfɪˈkeɪʃən",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/identification"
+    },
+    "imminence": {
+      "ipa": "ˈɪmɪnəns",
+      "url": "https://dictionary.cambridge.org/dictionary/english/imminence"
+    },
+    "impersonation": {
+      "ipa": "ɪmˌpɜːsənˈeɪʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/impersonation"
+    },
+    "implant": {
+      "variants": {
+        "n.": "ˈɪmplɑːnt",
+        "v.": "ɪmˈplɑːnt"
+      },
+      "url": "https://dictionary.cambridge.org/dictionary/english/implant",
+      "note": "名词首音节重读，动词末音节重读；此行同时列n./v.，须分别对应显示。"
+    },
+    "inherent": {
+      "ipa": "ɪnˈherənt",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/inherent",
+      "variants": {
+        "also UK": "ɪnˈhɪərənt"
+      }
+    },
+    "initiative": {
+      "ipa": "ɪˈnɪʃətɪv",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/initiative"
+    },
+    "insight": {
+      "ipa": "ˈɪnsaɪt",
+      "url": "https://dictionary.cambridge.org/dictionary/english/insight"
+    },
+    "inspiration": {
+      "ipa": "ˌɪnspɪˈreɪʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/inspiration"
+    },
+    "interact": {
+      "ipa": "ˌɪntəˈrækt",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/interact"
+    },
+    "intrude": {
+      "ipa": "ɪnˈtruːd",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/intrude"
+    },
+    "intrusive": {
+      "ipa": "ɪnˈtruːsɪv",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/intrusive"
+    },
+    "labor": {
+      "ipa": "ˈleɪbə",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/labour",
+      "note": "原文labor为美式拼写；按同词labour的英式读音标注。"
+    },
+    "legislation": {
+      "ipa": "ˌledʒɪˈsleɪʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/legislation"
+    },
+    "liberty": {
+      "ipa": "ˈlɪbəti",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/liberty"
+    },
+    "mimic": {
+      "ipa": "ˈmɪmɪk",
+      "url": "https://dictionary.cambridge.org/dictionary/english/mimic"
+    },
+    "mint": {
+      "ipa": "mɪnt",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/mint"
+    },
+    "misconception": {
+      "ipa": "ˌmɪskənˈsepʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/misconception"
+    },
+    "monetize": {
+      "ipa": "ˈmʌnɪtaɪz",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/monetize"
+    },
+    "monopoly": {
+      "ipa": "məˈnɒpəli",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/monopoly"
+    },
+    "myriad": {
+      "ipa": "ˈmɪriəd",
+      "url": "https://dictionary.cambridge.org/dictionary/english/myriad"
+    },
+    "observation": {
+      "ipa": "ˌɒbzəˈveɪʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/observation"
+    },
+    "oppression": {
+      "ipa": "əˈpreʃən",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/oppression"
+    },
+    "outperform": {
+      "ipa": "ˌaʊtpəˈfɔːm",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/outperform"
+    },
+    "particular": {
+      "ipa": "pəˈtɪkjələ",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/particular"
+    },
+    "philosophical": {
+      "ipa": "ˌfɪləˈsɒfɪkəl",
+      "url": "https://dictionary.cambridge.org/dictionary/english/philosophical"
+    },
+    "philosophy": {
+      "ipa": "fɪˈlɒsəfi",
+      "url": "https://dictionary.cambridge.org/dictionary/english/philosophy"
+    },
+    "plumb": {
+      "ipa": "plʌm",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/plumb"
+    },
+    "plumbing": {
+      "ipa": "ˈplʌmɪŋ",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/plumbing"
+    },
+    "precede": {
+      "ipa": "prɪˈsiːd",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/precede"
+    },
+    "preceding": {
+      "ipa": "prɪˈsiːdɪŋ",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/precede"
+    },
+    "privilege": {
+      "ipa": "ˈprɪvəlɪdʒ",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/privilege"
+    },
+    "productivity": {
+      "ipa": "ˌprɒdʌkˈtɪvəti",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/productivity"
+    },
+    "prompt": {
+      "ipa": "prɒmpt",
+      "url": "https://dictionary.cambridge.org/dictionary/english/prompt"
+    },
+    "prospect": {
+      "ipa": "ˈprɒspekt",
+      "url": "https://dictionary.cambridge.org/dictionary/learner-english/prospect",
+      "pos": "n."
+    },
+    "quantity": {
+      "ipa": "ˈkwɒntəti",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/quantity"
+    },
+    "radicalize": {
+      "ipa": "ˈrædɪkəlaɪz",
+      "url": "https://dictionary.cambridge.org/dictionary/english/radicalize"
+    },
+    "ration": {
+      "ipa": "ˈræʃən",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/ration"
+    },
+    "regulation": {
+      "ipa": "ˌreɡjəˈleɪʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/regulation"
+    },
+    "relentless": {
+      "ipa": "rɪˈlentləs",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/relentless"
+    },
+    "remedy": {
+      "ipa": "ˈremədi",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/remedy"
+    },
+    "resilient": {
+      "ipa": "rɪˈzɪliənt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/resilient"
+    },
+    "revenue": {
+      "ipa": "ˈrevənjuː",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/revenue"
+    },
+    "revolt": {
+      "ipa": "rɪˈvəʊlt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/revolt",
+      "note": "当前行为名词，英式重音仍在第二音节；动词也同音。"
+    },
+    "skeptical": {
+      "ipa": "ˈskeptɪkəl",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/skeptical",
+      "note": "保留当前skeptical拼写；英国常写sceptical，但英式音相同。"
+    },
+    "snoop": {
+      "ipa": "snuːp",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/snoop"
+    },
+    "spew": {
+      "ipa": "spjuː",
+      "url": "https://dictionary.cambridge.org/dictionary/english/spew"
+    },
+    "spontaneous": {
+      "ipa": "spɒnˈteɪniəs",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/spontaneous"
+    },
+    "stranglehold": {
+      "ipa": "ˈstræŋɡəlhəʊld",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/stranglehold"
+    },
+    "stumble": {
+      "ipa": "ˈstʌmbəl",
+      "url": "https://dictionary.cambridge.org/dictionary/english/stumble"
+    },
+    "substantial": {
+      "ipa": "səbˈstænʃəl",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/substantial"
+    },
+    "superficial": {
+      "ipa": "ˌsuːpəˈfɪʃəl",
+      "url": "https://dictionary.cambridge.org/dictionary/english/superficial"
+    },
+    "surveillance": {
+      "ipa": "səˈveɪləns",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/surveillance"
+    },
+    "susceptible": {
+      "ipa": "səˈseptəbəl",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/susceptible"
+    },
+    "system": {
+      "ipa": "ˈsɪstəm",
+      "url": "https://dictionary.cambridge.org/dictionary/english/system"
+    },
+    "systemic": {
+      "ipa": "sɪˈstemɪk",
+      "url": "https://dictionary.cambridge.org/dictionary/english/systemic"
+    },
+    "theft": {
+      "ipa": "θeft",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/theft"
+    },
+    "undetected": {
+      "ipa": "ˌʌndɪˈtektɪd",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/undetected"
+    },
+    "uniform": {
+      "ipa": "ˈjuːnɪfɔːm",
+      "url": "https://dictionary.cambridge.org/dictionary/english/uniform"
+    },
+    "uniformly": {
+      "ipa": "ˈjuːnɪfɔːmli",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/uniformly"
+    },
+    "universal": {
+      "ipa": "ˌjuːnɪˈvɜːsəl",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/universal"
+    },
+    "universally": {
+      "ipa": "ˌjuːnɪˈvɜːsəli",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/universally"
+    },
+    "utility": {
+      "ipa": "juːˈtɪləti",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/utility"
+    },
+    "voluntary": {
+      "ipa": "ˈvɒləntəri",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/voluntary"
+    },
+    "warranty": {
+      "ipa": "ˈwɒrənti",
+      "url": "https://dictionary.cambridge.org/us/pronunciation/english/warranty"
+    }
+  }
+}

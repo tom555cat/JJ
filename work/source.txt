@@ -1,0 +1,1006 @@
+=== PDF PAGE 1 ===
+2025年国家⾦融监督管理总局考试-计算机岗
+试题（考⽣回忆版）
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 2 ===
+⼀. 经济⾦融基础知识：每⼩题后的四个备选答案中只有⼀个最符合题意的答案。
+正确答案： B
+你的答案： D
+正确答案： C
+你的答案： D
+正确答案： C
+你的答案： A
+正确答案： B
+你的答案： A
+正确答案： A
+你的答案： B
+正确答案： D
+你的答案： B
+《中共中央关于进一步全面深化改革  推进中国式现代化的决定》提出制定（  ）。1.
+A.科技创新促进法 B.金融法 C.金融稳定法 D.民营企业促进法
+根据马克思主义政治经济学理论，（  ）成为商品是货币转化为资本的前提。2.
+A.剩余价值 B.一般等价物 C.劳动力 D.生产资料
+在核算国内生产总值（ GDP ）时，以下哪项计入投资 ? （  ）3.
+A.购买股票、债券等金融资产 B.购买二手房
+C.购买新设备 D.购买培训服务
+IS 曲线右上方、 LM 曲线右下方的组合表示（  ）。4.
+A.产品供大于求、货币供大于求 B.产品供大于求、货币供小于求
+C.产品供小于求、货币供大于求 D.产品供小于求、货币供小于求
+在总需求不变时，短期总供给的增加会引起以下哪些变化 ? （  ）5.
+A.价格水平下降，国民收入增加 B.价格水平下降，国民收入下降
+C.价格水平上升，国民收入增加 D.价格水平上升，国民收入下降
+一个经济体系中的自然失业率是指（  ）。6.
+A.摩擦性失业人数、结构性失业人数和周期性失业人数相加后除以劳动力人数
+B.摩擦性失业人数和周期性失业人数相加后除以劳动力人数
+C.结构性失业人数和周期性失业人数相加后除以劳动力人数
+D.摩擦性失业人数和结构性失业人数相加后除以劳动力人数
+如果名义 GDP 为 400 亿美元，真实 GDP 为 200 亿美元，而货币供给为 100 亿美元，以下说法正确
+的是（  ）。
+7.
+A.物价水平是
+ ，货币流通速度是 4
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 3 ===
+正确答案： D
+你的答案： D
+正确答案： D
+你的答案： D
+正确答案： B
+你的答案： A
+正确答案： B
+你的答案： D
+正确答案： A
+你的答案： C
+正确答案： D
+你的答案： C
+正确答案： A
+B.物价水平是
+ ，货币流通速度是 4
+C.物价水平是 2 ，货币流通速度是 2
+D.物价水平是 2 ，货币流通速度是 4
+假设经济的总供给函数为
+ ，总需求函数为
+ ，总供给和总需求均
+衡时的收入和价格水平为（  ）。
+8.
+A.价格水平
+ ，收入
+B.价格水平
+ ，收入
+C.价格水平
+ ，收入
+D.价格水平
+ ，收入
+假定 IS 曲线和 LM 曲线的交点所表示的均衡国民收入低于充分就业的国民收入，根据 IS—LM 模
+型，为了不让利率上升，政府应该采取以下哪项措施？（  ）
+9.
+A.在增加投资的同时减少货币供给 B.在增加投资的同时增加货币供给
+C.在减少投资的同时减少货币供给 D.在减少投资的同时增加货币供给
+若商品 A 和 B 的价格按相同比率上升，收入不变，则消费者的预算线（  ）。10.
+A.向左上方平行移动 B.向左下方平行移动 C.向右上方平行移动 D.向右下方平行移动
+关于替代效应、收入效应和总效应，以下说法正确的是（  ）。11.
+A.替代效应一定与价格反向变化 B.收入效应一定与价格正向变化
+C.劣等品的收入效应与价格反向变化 D.吉芬品的总效应与价格反向变化
+如果厂商成本的产出弹性大于 1 ，那么存在着（  ）。12.
+A.范围经济 B.范围不经济 C.规模经济 D.规模不经济
+金融资产票面收益与票面额的比率称为（  ）。13.
+A.名义收益率 B.实际收益率 C.现时收益率 D.平均收益率
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  3  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 4 ===
+⼆. ⾦融监管计算机类专业单项选择题：
+你的答案： A
+正确答案： A
+你的答案： B
+正确答案： C
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： B
+你的答案： C
+正确答案： C
+你的答案： A
+正确答案： C
+你的答案： C
+正确答案： C
+你的答案： B
+每⼩题后的四个备选答案中只有⼀个最符合题意的答
+案。
+按照金融交易的期限，可以把金融市场划分为（  ）。14.
+A.货币市场和资本市场 B.现货市场和期货市场
+C.一级市场和二级市场 D.同业拆借市场和回购市场
+如果某银行投资国债的票面利率为 3% ，预期名义收益率为 8% ，预期通货膨胀率为 2% ，则该
+银行所投资国债的预期实际收益率为（  ）。
+15.
+A.1% B.5% C.6% D.10%
+根据监管规定，保险公司应该具备与风险及业务规模相匹配的资本要求，对于保险公司核心
+偿付能力充足率和综合偿付能力充足率的要求分别是不应低于（  ）。
+16.
+A.50% ， 80% B.50% ， 100%
+C.100% ， 100% D.100% ， 150%
+商业银行贷款按照担保形式可以分为保证贷款、抵押贷款、质押贷款和（  ）。17.
+A.普通贷款 B.信用贷款 C.联合贷款 D.分期贷款
+在我国，委托贷款属于商业银行的（  ）。18.
+A.资产业务 B.负债业务 C.中间业务 D.托管业务
+货币政策对（  ）等指标进行管理。19.
+A.预算赤字和预算盈余 B.政府支出和税收收入
+C.货币供应量和利率 D.失业率和总产出
+国际收支平衡表中将投资收益记入（  ）。20.
+A.资本账户 B.金融账户 C.经常账户 D.转移账户
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  4  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 5 ===
+正确答案： B
+你的答案： B
+正确答案： A
+你的答案： A
+正确答案： A
+你的答案： D
+正确答案： D
+你的答案： D
+正确答案： D
+你的答案： D
+正确答案： A
+你的答案： D
+正确答案： D
+你的答案： A
+为了解决银行柜面终端与票据打印机之间速度不匹配的问题，需要设置一个打印缓冲区。逐
+条、依次将柜面终端的打印需求传递至打印机。该缓冲区的结构应该选择（  ）。
+21.
+A.栈 B.队列 C.二叉树 D.图
+中间件有多种类型， windows 平台的 ODBC 和 JAVA 平台的 JDBC 属于（  ）。22.
+A.数据库访问中间件 B.远程过程调用中间件
+C.面向消息中间件 D.实务中间件
+通常在信息系统配置中采用容错技术，提供相应的可靠性，（  ）是集群的一种形式，两台服
+务器均处于活动状态，同运行相同的应用，以保证整体系统的性能，也实现了负载均衡和互
+为备份。
+23.
+A.双机双工模式 B.双机热备模式 C.双机集群模式 D.双机互备模式
+（  ）是一种基于多层神经网络并以海量数据作为输入规则的自学习方法，依靠提供给它的大
+量实际行为数据，进行参数和规则调整。
+24.
+A.监督学习 B.半监督学习 C.强化学习 D.深度学习
+在软件开发和维护过程中，一个软件会有多个版本，（  ）工具用来存储、更新、恢复和管理
+一个软件的多个版本。
+25.
+A.软件测试 B.逆向工程 C.UML 建模 D.版本控制
+企业资源规划（ ERP ）中的企业资源包括企业的 “ 三流 ” 资源，不包含以下（  ）。26.
+A.数据流 B.物流 C.资金流 D.信息流
+在 JavaApplet 程序用户自定义的 Applet 子类中，常常重载（  ）方法在 Applet 的界面中显示文
+字、图形和其它界面元素。
+27.
+A.start （） B.stop （） C.init （） D.paint （）
+根据软件过程活动对软件工具进行分类，则逆向工程工具属于（  ）工具。28.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  5  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 6 ===
+正确答案： B
+你的答案： C
+正确答案： C
+你的答案： C
+正确答案： C
+你的答案： B
+正确答案： B
+你的答案： B
+正确答案： B
+你的答案： C
+正确答案： A
+你的答案： B
+正确答案： C
+你的答案： C
+正确答案： B
+A.软件开发 B.软件维护 C.软件管理 D.软件支持
+模块 A 提供某个班级某门课程的成绩给模块 B ，模块 B 计算平均成绩、最高分和最低分，将计
+算结果返回给模块 A ，则模块 B 在软件结构图中属于（  ）模块。
+29.
+A.传入 B.传出 C.变换 D.协调
+程序的环形复杂度等于（  ）是模块规模的一个更科学更精确的上限。30.
+A.3 B.5 C.10 D.12
+用 C/C++ 语言编写的程序代码，经过（  ）后形成可执行程序。31.
+A.汇编、预处理、链接、编译 B.预处理、编译、汇编、链接
+C.编译、预处理、汇编、链接 D.链接、预处理、编译、汇编
+某模块实现两个功能：向某个数据结构区域写数据和从该区域读数据。该模块的内聚类型为
+（  ）内聚。
+32.
+A.过程 B.通信 C.逻辑 D.时间
+在某销售系统中，客户采用扫描二维码进行支付。若采用面向对象方法开发该销售系统，则
+二维码类属于（  ）类。
+33.
+A.接口 B.实体 C.控制 D.状态
+行业协会计划开发一个信息系统，现阶段用户无法明确该系统的全部准确要求，希望在试用
+后再逐步完善并最终实现用户需求，则该信息系统应采用的开发方法是（  ）。
+34.
+A.结构化方法 B.面向对象方法 C.原型化方法 D.面向服务方法
+在信息系统开发过程中，（  ）阶段的任务是回答信息系统 “ 做什么 ” 的问题，（  ）阶段的任务
+是回答系统 “ 怎么做 ” 的问题。
+35.
+A.规划  实施 B.分析  设计 C.设计  运行 D.实施  运行
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  6  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 7 ===
+你的答案： A
+正确答案： B
+你的答案： A
+正确答案： C
+你的答案： C
+正确答案： B
+你的答案： D
+正确答案： A
+你的答案： A
+正确答案： B
+你的答案： B
+配置管理属于信息系统软件运维体系中的（  ）。36.
+A.运维支持要素 B.运维管理过程 C.运维需求 D.运维管理原则
+开发的产品不再符合市场需求，这种状况属于项目的（  ）。37.
+A.技术风险 B.社会风险 C.商业风险 D.组织风险
+企业应用集成技术（ EAI ）可以消除信息孤岛，将多个企业信息系统连接起来，实现无缝集
+成。 EAI 包括多个层次和方面。其中在业务逻辑层上对应用系统进行黑盒集成的属于（  ）。
+38.
+A.数据集成 B.控制集成 C.表示集成 D.业务流程集成
+某公司下设硬件研发部、软件研发部、结构设计部、生产车间等部门，当执行项目遇到硬件
+问题时，参与项目人员先向自己部门的经理反馈，由部门经理再与硬件部门经理沟通，该组
+织结构类型的缺点是（  ）。
+39.
+A.组织横向之间的联系薄弱，部门间协调难度大
+B.管理成本高，多头领导，难以监控
+C.项目环境比较封闭，不利于沟通和知识共享
+D.员工缺乏稳定性
+有关项目团队建设的描述，不正确的是（  ）。40.
+A.通过各种活动提高团队成员之间的信任和认同感，增进协作
+B.借助管理层和相关干系人的帮助，使项目组获得有效资源支持
+C.通过有效手段提高团队成员的知识和技能，实现有效交付
+D.通过塑造良好的团队文化，提高个人和团队的生产率
+某公司承接了某海外信息系统集成项目，项目进行中，项目经理获悉因天气和汇率原因，预
+计设备到场的运费比预算高出 30% ，接下来他应该首先（  ）。
+41.
+A.项目还没有结束，暂时不做处理
+B.给主管领导打电话，寻求解决方案
+C.填写变更申请，启动变更流程
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  7  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 8 ===
+正确答案： C
+你的答案： C
+正确答案： B
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： A
+你的答案： A
+正确答案： B
+你的答案： B
+正确答案： C
+你的答案： C
+正确答案： D
+D.寻找新的承运商，评估变更影响，提交合同变更申请
+在关键路径上增加资源不一定会缩短项目的工期，这是因为（  ）。42.
+A.关键路径上的活动是不依赖于时间和资源的
+B.增加资源有可能导致产生额外的问题并且降低效率
+C.关键活动的历时是固定不变的
+D.关键活动所配置的资源数量总是充足的
+Hadoop 进行数据存储管理所采用的系统是（  ）。43.
+A.NTFS B.HDFS C.REDIS D.CDFS
+一个新的数据库管理系统安装完成后，以下（  ）工作优先级最高。44.
+A.创建用户，赋予角色权限 B.重新启动服务器
+C.修改默认配置 D.优化数据库性能
+若要 “ 查询客户名下存在 3 张卡以上的客户号 ” ，则正确的 SQL 语句是（  ）。45.
+A.SELECTclient_noFROMrb_acctGROUPBYclient_noWHERECOUNT(*)>3
+B.SELECTclient_noFROMrb_acctGROUPBYclient_noHAVINGCOUNT(*)>3
+C.SELECTclient_noFROMrb_acctORDERBYclient_noWHERECOLNT(*)>3
+D.SELECTclient_noFROMrb_acctORDERBYclient_noHAVINGCOUNT(*)>3
+以下（  ）属于数据挖掘中关联分析算法。46.
+A.K-means B.EM C.Apriori D.SVM
+数据库系统中，用于删除约束的命令是（  ）。47.
+A.ALERTTABLEMODIFYCONSTRAINT
+B.DROPCONSTRAINT
+C.ALTERCONSTRAINTDROP
+D.ALTERTABLEDROPCONSTRAINT
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  8  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 9 ===
+你的答案： D
+正确答案： C
+你的答案： C
+正确答案： C
+你的答案： C
+正确答案： D
+你的答案： C
+正确答案： A
+你的答案： A
+正确答案： A
+你的答案： D
+深度为 K 的满二叉树有（  ）个节点。48.
+A.
+B.
+C.
+D.
+在一个具有 N 个节点的单链表中查找关键字为 K 的节点时，查找成功的情况下，需平均比较（
+）次。
+49.
+A.N
+B.
+C.
+D.
+数据模型的三要素是（  ）。50.
+A.外模式、概念模式和内模式 B.关系模型、网状模型和层次模型
+C.实体、属性和关系 D.数据结构、数据操作和完整性约束条件
+现代数据库系统一般采用三级模式和二级映像，这种处理使得数据库系统具有较高的（  ）。51.
+A.数据独立性 B.数据一致性 C.数据完整性 D.数据安全
+下列 SQL 语句中，能够实现 “ 把对表 E 的属性 Salary 的修改权授予用户 WU” 这一功能的语句是（
+）。
+52.
+A.GRANTUPDATE(Salary)ONTABLEETOWU
+B.GRANTUPDATEONTABLEETOWU
+C.GRANTSalaryONTABLEETOWU
+D.GRANTUPDATEONTABLEE(Salary)TOWU
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  9  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 10 ===
+正确答案： C
+你的答案： C
+正确答案： B
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： B
+你的答案： B
+正确答案： C
+你的答案： A
+正确答案： C
+你的答案： D
+正确答案： D
+你的答案： D
+定义学生关系模式 S （ SNO ， SNAME ， SAGE ， SDEPT ， DC ）（其属性分别为学号、姓名、
+年龄、所在系、所在系的班主任），则该关系模式为（  ）。
+53.
+A.BCNF B.3NF C.2NF D.1NF
+在关系数据库设计中，设计关系模式是（  ）阶段的任务。54.
+A.需求分析 B.逻辑结构设计 C.概念结构设计 D.物理结构设计
+某单位为用户提供网上服务，允许用户通过浏览器管理自己的账户信息。为保障通信的安全
+性，该 Web 服务可选的协议是（  ）。
+55.
+A.POP B.HTTPS C.HTTP D.SNMP
+主机 168.16.84.24/20 所在子网的最小可分配地址和最大可分配地址分别是（  ）。56.
+A.168.16.80.1 ， 168.16.84.254
+B.168.16.80.1 ， 168.16.95.254
+C.168.16.84.1 ， 168.16.84.254
+D.168.16.84.1 ， 168.16.95.254
+下面有关 IPv6 的说法正确的是（  ）。57.
+A.提供了 27 亿个地址 B.地址是层次结构的，且随机分配
+C.淘汰了广播，取而代之的是组播 D.每个接口只能配置一个 IPv6 地址
+在使用子网掩码 255.255.255.192 网络中，每个子网有（  ）台主机。58.
+A.30 B.31 C.62 D.63
+采取（  ）方式，能够提高主机的可用带宽和限制广播域的规模。59.
+A.使用网桥 B.使用交换机
+C.使用受控的集线器 D.使用交换机并配置 VLAN
+显示 OSPF 邻居信息的命令是（  ）。60.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 0  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 11 ===
+正确答案： C
+你的答案： C
+正确答案： A
+你的答案： B
+正确答案： D
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： B
+你的答案： B
+正确答案： C
+你的答案： C
+A.displayospfinterface
+B.displayospfrouting
+C.displayospfpeer
+D.displayospf1sdb
+当你在路由器的控制台上输入了 debug ip rip 命令，并发现正在通告的 172.16.10.0 的度量值为
+16 ，这意味着（  ）。
+61.
+A.这个路由不可达 B.这个路由的距离为 16 跳
+C.这个路由具有 16 微秒的延迟 D.这个路由排在第二个 16 条消息处
+某主机无法上网，查看本地连接后，发现只有发送包没有接收包，故障原因可能是（  ）。62.
+A.网线没有插好 B.DNS 配置错误
+C.IP 地址配置错误 D.TCP/IP 协议存在故障
+依据《中华人民共和国网络安全法》，网络运营者应当制定（  ），及时处置系统漏、计算机
+病、网络攻击、网络侵入等安全风险。
+63.
+A.网络安全事件应急演练方案 B.网络安全事件应急预案
+C.网络安全事件补救措施 D.网络安全事件应急处置措施
+某管理员对即将上线的操作系统进行了以下四项安全部署工作，其中（  ）设置不利于提高运
+行环境安全。
+64.
+A.操作系统安装完成后安装最新的安全补丁，确保操作系统不存在可被利用的安全漏洞
+B.为了方便进行数据备份，安装操作系统时只使用一个分区，所有数据和操作系统都存放在该
+分区
+C.操作系统上部署防病毒软件，以对抗病毒的威胁
+D.将默认的管理员账号改名，降低口令暴力破解攻击的发生可能
+以下（  ）恶意软件利用社会工程伎俩诱骗受害者安装该软件。65.
+A.病毒 B.蠕虫 C.木马 D.逻辑炸弹
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 1  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 12 ===
+正确答案： C
+你的答案： C
+正确答案： C
+你的答案： C
+正确答案： D
+你的答案： D
+正确答案： D
+你的答案： D
+正确答案： D
+你的答案： B
+正确答案： A
+你的答案： A
+正确答案： D
+你的答案： B
+如果张三收到李四发来的一条有数字签名的消息，那么张三应该使用（  ）来验证消息确实发
+自李四。
+66.
+A.张三的公钥 B.张三的私钥 C.李四的公钥 D.李四的私钥
+保密性、完整性和可用性通常被视为安全基础设施的主要目标。下列（  ）不是对保密性的破
+坏。
+67.
+A.使用键盘输入记录工具窃取密码 B.窃听无线网络通信
+C.纵火造成存储设备毁坏 D.欺骗用户向虚假网站提供个人信息
+某公司希望在网络上测试系统是否存在 SQL 注入漏洞。以下（  ）最适合此任务。68.
+A.端口扫描器 B.网络漏洞扫描器 C.网络发现扫描器 D.Web 漏洞扫描器
+（  ）可为敏感数据的保密性提供最佳保护。69.
+A.数据标签 B.数据分类 C.数据处理 D.数据消磁
+黑客破解了连接 WiFi 的新安装的婴儿监视器，对婴儿播放恐怖的声音，使孩子受到惊吓。在
+这个案例中，攻击者是通过（  ）访问婴儿监视器的。
+70.
+A.未及时更新的恶意软件扫描程序 B.支持 5GHz 信道的 WAP 数据
+C.对孩子父母实施社会工程学攻击 D.利用默认配置
+如果你为应用程序设计人员，需要通过执行各种安全机制来保护软件访问和处理的各类数
+据。执行受约束或受限制接口的目的是（  ）。
+71.
+A.限制授权用户和未经授权人员的行动 B.执行身份认证
+C.跟踪用户事件和检查违规情况 D.在主内存和次内存之间交换数据集
+数据中心多次出现硬件故障。审核员注意到服务器以密集的方式堆叠在一起，没有条理。应
+该采取（  ）来解决这个问题。
+72.
+A.门禁控制 B.综合布线 C.气体灭火 D.热通道与冷通道
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 2  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 13 ===
+正确答案： A
+你的答案： D
+正确答案： A
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： C
+你的答案： C
+正确答案： B
+你的答案： B
+正确答案： D
+你的答案： B
+你被安排在一家跨国大型金融机构的信息安全规划团队中。你的任务是创建一个优先级列
+表，其中必须包含在初始设计阶段要解决的问题。所有安全工作的首要目标是（  ）。
+73.
+A.预防信息泄露 B.保持完整性 C.人身安全 D.维持可用性
+（  ）组合策略的备份还原速度最快。74.
+A.完整备份和差异备份 B.部分备份和增量备份
+C.完整备份和增量备份 D.增量备份和差异备份
+“ 十四五 ” 期间，我国关注推动政务信息化共建共用、推动构建网络空间命运共同体，属于（
+）的建设内容。
+75.
+A.科技中国 B.数字中国 C.制造强国 D.创新强国
+当数据中心运行岗位员工离职或轮岗时，必须首先进行（  ）。76.
+A.明确此人不再具有以前的职责 B.确保归还应当归还的资产
+C.确保属于以前职责的访问权限被撤销 D.安全管理员陪同此人离开工作场所
+商业银行应制定相关控制信息系统变更的制度和流程，其中应包括生产系统与开发系统、测
+试系统（  ）。
+77.
+A.物理隔离 B.有效隔离 C.逻辑隔离 D.空间隔离
+某金融机构的董事会对业务连续性计划进行年度审查，以确保能采取适当措施将灾难对机构
+持续运营的影响降至最低。机构通过这次审查履行了（  ）。
+78.
+A.企业责任 B.防灾减损 C.尽职审查 D.持续经营责任
+关于数据安全管理，以下（  ）是错误的。79.
+A.开展数据处理活动，应当遵守法律、法规，尊重社会公德和伦理，遵守商业道德和职业道
+德，诚实守信，履行数据安全保护义务，承担社会责任，不得危害国家安全、公共利益，不
+得损害个人、组织的合法权益
+B.关系国家安全、国民经济命脉、重要民生、重大共利益等数据属于敏感数据，应当实行更加
+严格的管理制度
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 3  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 14 ===
+三. ⾦融监管计算机类专业多项选择题：
+正确答案： B
+你的答案： D
+正确答案： D
+你的答案： C
+每⼩题后的四个备选答案中⾄少有两个最符合题意的
+答案，少选、多选或错选均不得分。
+正确答案： A B D
+你的答案： A B C D
+正确答案： A B C D
+你的答案： A B C D
+正确答案： A C D
+你的答案： A B C D
+C.各地区、各部门应当按照数据分类分级保护制度，确定本地区、本部门以及相关行业、领域
+的重要数据具体目录，对列入目录的数据进行重点保护
+D.重要数据的处理者应当明确数据安全负责人和管理机构，落实数据安全保护责任
+信息科技外包是金融机构提高效率、降低成本、分散风险的重要方式之一。关于金融机构信
+息科技外包，以下说法错误的是（  ）。
+80.
+A.应当明确相关方职责，指定信息科技外包风险管理部门
+B.不可以将网络安全主体责任外包
+C.不可以将信息科技管理责任外包
+D.可以将外包服务的主要业务分包
+（多选题）以下关于软件架构设计重要性的描述，正确的有（  ）。81.
+A.软件架构设计能够满足系统的性能、安全性、可维护性等品质
+B.软件架构能够帮助项目干系人更好地理解软件结构
+C.软件架构设计能够帮助业务人员更好地表达需求
+D.软件架构设计能够有效地管理系统的复杂性，并降低系统维护费用
+（多选题）从技术的角度来看，影响软件可靠性的主要因素包括（  ）。82.
+A.运行剖面（环境） B.软件规模
+C.软件内部结构 D.软件的开发方法和开发环境
+（多选题）敏捷开发的主要原则，包括以下（  ）。83.
+A.强调通过尽早地、持续地交付有价值的软件来使客户满意
+B.经常交付可以工作的软件，但是每次都必须交付具有完整功能的系统
+C.在团队内部，最具有效果并富有效率的信息传递方法是面对面的交谈
+D.强调应对需求的持续变更，即使在项目后期也可灵活应对需求变更
+（多选题）工作量估算模型 COCOMOII 的层次结构中，估算选择主要包括（  ）。84.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 4  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 15 ===
+正确答案： A B D
+你的答案： A B C
+正确答案： B C D
+你的答案： B C D
+正确答案： A C
+你的答案： A B
+正确答案： A D
+你的答案： A C D
+正确答案： A C D
+你的答案： A D
+正确答案： A B C D
+你的答案： A B C D
+A.对象点 B.功能点 C.用例数 D.源代码行
+（多选题）为解决组织中多个项目之间的资源冲突问题，可以采用的方法有（  ）。85.
+A.制定资源计划时，每个项目预留尽量多的资源富余量
+B.检查组织内部的资源使用情况，看是否有资源分配不合理的情况
+C.制定资源在项目间分配的原则，重要的项目优先得到资源
+D.将组织中的资源进行统一管理，避免资源浪费和过度使用
+（多选题）软件变更控制对保障软件项目开发质量特别重要，其中（  ）过程实现了变化控制
+的两个主要功能：访问控制和同步控制。
+86.
+A.审批 B.评估 C.提取 D.提交
+（多选题）某设备采购项目，签订合同后进入了合同履行阶段，以下（  ）情形是合理的。87.
+A.合同履行过程中发现关于设备质量及验收要求的约定不明确，双方进行商议后以补充协议
+进行了规定
+B.由于采购方不具备接收通信设备的条件，要求供货方延迟货物的交付，到了实际交付时，由
+于该通信设备的价格涨价，供货方要求变更合同价格
+C.通信设备在运输至采购方的过程中，遇到了连续极端的暴雨天气无法按时交付，采购方认为
+合同中没有对应的免责条款，对供货方进行经济索赔
+D.合同双方在履行过程中产生了纠纷，双方无法协调一致，因此向仲裁机构提出了仲裁申请
+（多选题）关于 OLAP 和 OLTP 的叙述中正确的有（  ）。88.
+A.OLTP 事务量大，但事务内容比较简单且重复率高
+B.OLAP 的最终数据来源与 OLTP 不一样
+C.OLAP 面对决策高层人员
+D.OLTP 以应用为核心，是应用驱动的
+（多选题）作为一名服务器运维人员，对数据库服务器的日常运维监控应重点关注（  ）。89.
+A.CPU 使用率 B.内存使用率 C.磁盘容量和 I/O D.并发用户数
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 5  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 16 ===
+正确答案： A B
+你的答案： A B
+正确答案： C D
+你的答案： C D
+正确答案： B C
+你的答案： B C
+正确答案： A B D
+你的答案： A B C D
+正确答案： B C D
+你的答案： A B C D
+正确答案： A B C D
+你的答案： A B C D
+（多选题）对数据库进行安全性控制，防范的对象有（  ）。90.
+A.非法用户 B.非法操作 C.不合语义的数据 D.“ 脏 ” 数据
+（多选题）下列关于数据库中冗余数据的说法，正确的有（  ）。91.
+A.数据库中的冗余数据越少越好
+B.冗余数据不会破坏数据库的完整性
+C.冗余数据的存在给数据库的维护增加了难度
+D.数据库中有必要存储一定的冗余数据
+（多选题）网络管理员监测到局域网内计算机的传输速度变得很慢，可能的原因有（  ）。92.
+A.WannaCry 勒索病毒 B.网络广播风暴
+C.网络线路介质故障 D.运营商互联网接入故障
+（多选题）把物理网络划分成 VLAN 的好处有（  ）。93.
+A.控制网络流量 B.灵活的网络管理 C.简化交换机的管理 D.提高网络的安全性
+（多选题）网络管理员在日常巡检中，发现某交换机有个接口丢包频繁，下列处理方法中正
+确的有（  ）。
+94.
+A.检查交换机是否中病毒
+B.检查网线接口是否存在内部金属弹片凹陷或偏位
+C.检查连接线缆是否存在接触不良或外部损坏的情况
+D.检查设备两端接口双工模式、速率、协商模式是否一致
+（多选题）某机构运营着一个公司网站，目前使用的是一台服务器，能够处理网站的全部负
+载。能够提高该服务器运行可靠性的有（  ）。
+95.
+A.在服务器中安装双电源 B.在负载均衡器后面部署多台服务器
+C.用 RAID 阵列替换服务器的硬盘 D.定期备份服务器
+（多选题）IT 部门通常会使用镜像来部署新系统。使用镜像的好处有（  ）。96.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 6  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 17 ===
+四. 英语阅读理解：
+正确答案： A B C
+你的答案： A B C
+正确答案： A C
+你的答案： A B
+正确答案： A B D
+你的答案： A B D
+正确答案： A B
+你的答案： A B C D
+正确答案： A C
+你的答案： A C
+阅读下列短⽂，从每题所给的四个选项中，选出最佳选项。
+Price determine how resources are to be used. They are also the means by which products and
+services that are in limited supply are rationed among buyers. The price system of the United
+States is a very complex network composed of the prices of all the products bought and sold in the
+A.为配置管理提供基线 B.提高工作效率，减少响应时间
+C.统一操作系统版本 D.记录变更
+（多选题）某单位系统被配置为自动接收和更新补丁。收到补丁后，其中多个系统自动重启
+并报错。首席安全官要求采取改进措施，在不降低安全性的情况下预防这个问题。
+不符合首席安全官要求的有（  ）。
+97.
+A.禁止自动化部署补丁
+B.实施补丁管理流程以批准所有补丁
+C.部署补丁后，定期审核补丁
+D.实施补丁管理流程，在部署补丁之前对其进行测试
+（多选题）你在排除用户计算机上的故障。你查看了基于主机的入侵检测系统（ HIDS ）的日
+志后确定这台计算机已被恶意软件入侵。为查明原因、降低损失，接下来你应该（  ）。
+98.
+A.把计算机与网络隔离开来 B.查看邻近计算机的 HIDS 日志
+C.重启计算机 D.对系统进行分析，查明它是怎样被感染的
+（多选题）以下属于网络安全评估内容的有（  ）。99.
+A.漏洞扫描 B.风险评估 C.漏洞缓解 D.威胁评估
+（多选题）下列属于金融机构信息科技风险的有（  ）。100.
+A.信息科技外包风险
+B.现金流中断风险
+C.应用云计算、人工智能等新技术过程中的相关风险
+D.挤兑风险
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 7  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 18 ===
+economy as well as those of a myriad of services, including labor, professional transportation, and
+public-utility services. The interrelationships of all these prices make up the “system ” of prices.
+The prices of any particular product or service are linked to a broad, complicated system of prices
+in which everything seems to depend more or less upon everything else.
+If one were to ask a group of randomly individuals to define “price ”, many would reply that
+price is an amount of money paid by the buyer to the seller of a product or service or, in other
+words, that price is the money value of a product or service as agreed upon in a market transaction.
+This definition is, of course, valid as far as it goes.
+For a complete understanding of a price in any particular transaction, much more than the
+amount of money involved must be known. Both the buyer and the seller should be familiar with
+not only the money amount, but with the amount and quality of the product or service to be
+exchanged, the time and place at which the exchange will take place and payment will be made, the
+form of money to be used, and the credit terms and discounts that supply to the transaction,
+guarantees on the product or service, delivery terms, return privileges, and other factors. In other
+words, both buyer and seller should be fully aware of all the factors that comprise the total
+“package ” being exchanged for the asked-for amount of money in order that they may evaluate a
+given price.
+正确答案： D
+你的答案： B
+正确答案： A
+你的答案： A
+According to the passage, the price system is related primarily to （  ） .101.
+A.labor and education
+B.transportation and insurance
+C.utilities and repairs
+D.products and services
+According to the passage, which of the following is NOT a factor in the complete understanding of
+price? （  ）
+102.
+A.Instructions that come with a product.
+B.The quantity of a product.
+C.The quality of a product.
+D.Warranties that cover a product.
+In the last sentence of the passage, the world “they” refers to （  ） .103.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 8  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 19 ===
+正确答案： C
+你的答案： C
+正确答案： D
+你的答案： D
+正确答案： B
+你的答案： B
+For the past 3,000 years, when people thought of money they thought of cash. From buying
+food to settling bar tabs, day-to-day dealings involved creased paper or clinking bits of metal. Over
+the past decade, however, digital payments have taken off— tapping your plastic on a terminal or
+swiping a smartphone has become normal. Now this revolution is about to turn cash into an
+endangered species in some rich economies. That will make the economy more efficient—but it
+also poses new problems that could hold the transition hostage.
+In the main the prospect of a cashless economy is excellent news. Cash is inefficient. In rich
+countries, minting, sorting, storing and distributing it is estimated to cost about 0.5% of GDP. But
+that does not begin to capture the gains. When payments dematerialize, people and shops are less
+vulnerable to theft. Governments can keep closer tabs on fraud or tax evasion. Digitalization vastly
+expands the playground of small businesses and sole traders by enabling them to sell beyond their
+borders. It also creates a credit history, helping consumers borrow.
+Yet set against these benefits are a bundle of worries. Electronic payment systems may be
+vulnerable to technical failures, power blackouts and cyber-attacks—this week Capital One, an
+American bank, became the latest firm to be hacked. In a cashless economy, the poor, the elderly
+and country folk may be left behind. And eradicating cash, an anonymous payment method, for a
+A.return privileges B.all the factors
+C.buyer and seller D.money
+The paragraph following the passage most likely discusses （  ） .104.
+A.unusual ways to advertise products
+B.types of payment plans for service
+C.theories about how products affect different levels of society
+D.how certain elements of price “package ” influence its market value
+What is the best title for the passage? （  ）105.
+A.The Inherent Weakness for the Price System
+B.The Complexities of the Price System
+C.Credit Terms in Transactions
+D.Resource Allocation and the Public Sector
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  1 9  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 20 ===
+digital system could let governments snoop on people’s shopping habits and private entities exploit
+their personal data.
+These problems have three remedies. First, governments need to ensure that central monopoly
+over coins and notes is not replaced by private monopolies over digital money. Rather than letting
+a few credit-card firms have a stranglehold the electronic pipes for digital payments, as America
+may yet allow, governments must ensure the payments plumbing is open to a range of digital firms
+which can build services on top of it. They should urge banks to offer cheap, instant, bank-to-bank
+digital transfers between deposit accounts, as in Sweden and the Netherlands. Competition should
+keep prices low so that the poor can afford most services, and it should also mean that if one firm
+stumbles others can step in, making the system resilient.
+Second, governments should maintain obligation to keep customer information private, so that
+the plumbing remains anonymous. Digital firms that use this plumbing to offer services should be
+free to monetize transaction data, through, for example, advertising, so long as their business
+model is made explicit to users. Some customers will favor free services that track their purchases;
+others will want to pay to be left alone.
+Last, the phase-out of cash should be gradual. For a period of ten years, banks should be
+obliged to accept and distribute cash in populated areas. This will buy governments time to help
+the poor open bank accounts, educate the elderly and beef up internet access in rural areas. The
+rush towards digital money is the result of spontaneous demand and innovation. To pocket all the
+rewards, governments need to prepare for the day when crumpled bank notes change hands for the
+last time.
+正确答案： D
+你的答案： D
+正确答案： A
+What can we learn from the first two paragraphs? （  ）106.
+A.Cash has already become an endangered species in rich economies.
+B.Governments can tackle the problem of fraud by digitalization.
+C.Digital payments are rarely seen in recent years.
+D.Electronic payments will bring more efficiency to the economy.
+Capital One is mentioned in Paragraph 3 to illustrate （  ） .107.
+A.digital payment systems are susceptible to network attacks
+B.American banks will become easier to hack
+C.a digital system could let private giants steal people's Data
+D.country people will be affected in a cashless world
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 0  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 21 ===
+你的答案： A
+正确答案： C
+你的答案： B
+正确答案： B
+你的答案： B
+正确答案： B
+你的答案： C
+Many oppose workplace surveillance, because of the inherent dechumanizing effect it has and
+the relentless pressure it brings. But it's on the rise around the world as firms look to become more
+efficient by squeezing more productivity from their workers. More than half of companies with
+over $750 million in annual revenue used “non-traditional ” monitoring techniques on staff last
+year.
+Monitoring employee performance gives firms the ability to assess how their staff are
+performing and interacting, which can be good for both the firm and employees themselves. a
+growing number of analytics companies offer this service. They gather “data exhaust ” left by
+employees ’ email and instant messaging apps, and use name badges equipped with radio-
+frequency identification devices and microphones. These can check how much time you spend
+talking. your volume and tone of voice, even if you do not dominate conversations. While this may
+According to Paragraph 4, governments ought to （  ） .108.
+A.let credit-card firms control the electronic pipes
+B.ensure that central banks' monopoly over digital money
+C.urge banks to offer cheap, instant, bank-to-bank digital transfers
+D.make sure the payments plumbing is open to all digital firms
+Banks need to accept and distribute cash in populated areas because （  ） .109.
+A.cash should be quickly phased out
+B.it will give governments time to help the Poor
+C.it is the result of spontaneous demand
+D.it will promote digital innovation
+Which of the following can best summarize the main idea of the text? （  ）110.
+A.How to phase out cash and to build up a cashless world
+B.The pros and cons of digital payment and how to tackle its problems.
+C.The indispensable role of governments and banks in digital payment.
+D.The possibility of the private monopolies over digital money.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 1  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 22 ===
+sound intrusive, exponents argue that it can also protect employees against bullying and sexual
+harassment.
+Some of this data analysis can produce unexpected results. For example, it was found that
+people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those
+who regularly sat at four-person tables, a fact that would probably have gone undetected without
+such data analysis.
+Over the last few years a Stockholm co-working space called Epicenter has gone much further
+and holds popular “chipping parties ”, where people can have microchips implanted in their hands.
+They can use the implants to access electronically- controlled doors, or monitor how typing speed
+correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from
+ID cards and biometrics to such devices. As long as such schemes are voluntary, there will
+probably be a growing number of convenience-oriented uses so that a substantial number of
+workers would opt to have a chip inserted But if implanted chips are used to reduce slack time or
+rest breaks, that could prove to be detrimental. and if surveillance tools take away autonomy, that's
+when they prove most unpopular. a lot depends on how such monitoring initiatives are
+communicated and this could prevent possible revolts being staged.
+If bosses don't communicate effectively, employees assume the worst. But if they're open
+about the information they're collecting and what they're doing with it, research suggests 46% of
+employees are generally okay with it. Although many such monitoring schemes use anonymised
+data and participation is voluntary, many staffers remain skeptical and fear an erosion of their civil
+liberties.
+So workplace surveillance could be empowering for staff and useful for companies looking to
+become more efficient and profitable. But implemented in the wrong way, it could also become an
+unpopular tool of oppression that proves counterproductive.
+正确答案： A
+你的答案： B
+Why are many people opposed to monitoring employee performance? （  ）111.
+A.It puts workers under constant pressure.
+B.It is universally deemed anti-human by nature.
+C.It does both mental and physical harm to employees monitored.
+D.It enables firms to squeeze maximal productivity from employees.
+What is the supporters' argument for workplace surveillance? （  ）112.
+A.It enables employees to refrain from dominating conversations.
+B.It enhances employees' identification with firms they work in.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 2  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 23 ===
+正确答案： D
+你的答案： B
+正确答案： B
+你的答案： B
+正确答案： D
+你的答案： B
+正确答案： C
+你的答案： D
+“Progress in AI is something that will take a while to happen, but that doesn't make it science
+fiction, ” said Stuart Russell, the University of California computing professor, and co-author of
+the top AI textbook. The science of AI is a human enterprise that requires social limitations. The
+risks, however are not being properly weighed. There are two emerging approaches to AI. The first
+is to view it engineering terms, where algorithms( 算法 ) are trained on specific tasks. The second
+presents deep philosophical questions about the nature of human knowledge.
+The former is very much pushed by Silicon Valley, where AI is deployed to get products
+quickly to market and problems dealt with later. This has led to AI “succeeding ” even when the
+C.It can alert employees to intrusion into their privacy.
+D.It can protect employees against aggressive behavior.
+What does the author want to show by the example of different numbers of people interacting at
+lunch tables? （  ）
+113.
+A.Data analysis is key to the successful implementation of workplace surveillance.
+B.Analyzing data gathered from workers can yield something Unexpected.
+C.More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.
+D.It is hard to decide on how many people to sit at a lunch table without data analysis.
+What does much of the positive effect of monitoring initiatives depend on? （  ）114.
+A.How frequently employees are to be monitored.
+B.What specific personal information is being excluded.
+C.What steps are taken to minimize their detrimental impact.
+D.How well bosses make known their purpose of monitoring.
+What concern do monitoring initiatives cause among many staffers? （  ）115.
+A.They may empower employers excessively.
+B.They may erode the workplace environment.
+C.They may infringe upon staffers' entitled freedom.
+D.They may become counterproductive in the long run.
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 3  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 24 ===
+goals aren't socially acceptable and they are pursued with little accountability. The pitfalls of this
+approach are highlighted by the role YouTube's algorithm plays in radicalizing people, given that
+there is no public understanding of how it works. Prof. Russell argues, reasonably, for a system of
+checks where machines can pause and “ask ” for human guidance, and for regulations to deal with
+systemic biases.
+The academic also backs global adoption of EU legislation that would ban impersonation of
+humans by machines. Computers are getting closer to passing, in a superficial way, the Turing test
+—where machines attempt to trick people into believing they are communicating with other
+humans. Yet human knowledge is collective: to truly fool humans a computer would have to be
+able to grasp mutual understandings. Open AI's GPT-3, probably the best non-human writer ever,
+cannot comprehend what it spews. When Oxford scientists put it—and similar AIs—to the test this
+year, they found the machines produced false answers to questions that “mimic popular
+misconceptions and have the potential to deceive ”. It so troubled one of Open AI's own
+researchers that no one knew how such language is being made that he left to set up an AI safety
+lab.
+Some argue that AI can already produce new insights that humans have missed But human
+intelligence is much more than an algorithm. Inspiration strikes when a brilliant thought arises that
+can't be explained as a logical consequence of preceding steps. Einstein's theory of general
+relativity cannot be derived from observations of that age—it was experimentally proven only
+decades later. Human beings can also learn a new task by being shown how to do it only a few
+times.
+Machines, so far, cannot. Currently, AI can be prompted—but not prompt itself— into action.
+Humans are stumbling into an era when the more powerful the AI system, the harder it is to explain
+its actions. How can we tell if a machine is acting on our behalf and not acting contrary to our
+interests? Such questions ought to give us all pause for thought.
+正确答案： A
+你的答案： A
+According to Paragraph 1 and Paragraph 2, Stuart Russell （  ） .116.
+A.suggested social control on AI
+B.denied the imminence of AI progress
+C.praised AI science for its great success
+D.had a low opinion of AI for its potential risks
+The approach of viewing AI in engineering terms has （  ） .117.
+A.questioned the nature of human knowledge
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 4  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
+
+=== PDF PAGE 25 ===
+正确答案： B
+你的答案： B
+正确答案： A
+你的答案： B
+正确答案： B
+你的答案： D
+正确答案： C
+你的答案： D
+B.contributed to socially irresponsible algorithms
+C.prevented the algorithmic radicalization
+D.sped up the market entry of quality products
+According to Prof. Russell, machines （  ） .118.
+A.should be banned from pretending to be humans
+B.are especially helpful to counter social biases
+C.might get uniformly regulated at a global scale
+D.are not supposed to be supervised by humans
+What does the author say about Open AI's GPT-3? （  ）119.
+A.Its language is impossible to understand.
+B.It is non-human but can truly fool humans.
+C.Its programming is based on misconceptions.
+D.It is intelligent but cannot comprehend words.
+Einstein's theory of general relativity is mentioned to show that （  ） .120.
+A.AI-produced insights can be complementary to human thoughts
+B.machines are comparable to humans in terms of logical thinking
+C.human intelligence can hardly be translated into an algorithm
+D.brilliant scientific ideas always come way ahead of their time
+·  本 试 卷 由 粉 笔 用 户 用 户 0 9 q m j k 生 成
+第  2 5  页 ， 共  2 5  页
+2025年国家金融监督管理总局考试-计算机岗试题（考生回忆版）
